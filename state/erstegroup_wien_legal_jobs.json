@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-23T09:13:22+00:00",
+  "updated_at": "2026-02-23T10:28:10+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -849,11 +849,6 @@
       "location": ""
     },
     {
-      "title": "Privatkundenbetreuer (m/w/d) - Teilzeit",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Privatkundenbetreuer (w/m/d)",
       "href": "",
       "location": ""
@@ -1100,7 +1095,7 @@
     }
   ],
   "page_text_hash": "17cecaf7960dea68c2f873d826e9326b6d18d52d73908e4a5c13a7a52d2a9371",
-  "job_count": 219,
+  "job_count": 218,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Gesch\u00e4ftskundenbereich (w/m/d)",
@@ -1944,11 +1939,6 @@
     },
     {
       "title": "Privatkundenbetreuer (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Privatkundenbetreuer (m/w/d) - Teilzeit",
       "href": "",
       "location": ""
     },

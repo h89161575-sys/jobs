@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-24T09:56:44+00:00",
+  "updated_at": "2026-02-24T10:45:08+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -17,11 +17,6 @@
       "title": "+43 (0)5 0100 - 10100",
       "href": "tel:+435010010100",
       "location": "+43 (0)5 0100 - 10100"
-    },
-    {
-      "title": "Absolvent:innen",
-      "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
-      "location": "Absolvent:innen"
     },
     {
       "title": "Account Manager:in im Au\u00dfendienst Bankenvertrieb Leasing (all genders)",
@@ -352,6 +347,11 @@
       "title": "Gesetzliche Bekanntmachungen - Eigene Aktien",
       "href": "https://www.erstegroup.com/de/investoren/news/bekanntmachungen_eigene_Aktien",
       "location": "Gesetzliche Bekanntmachungen - Eigene Aktien"
+    },
+    {
+      "title": "Group Auditor (w/m/w) ab 30h",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Gro\u00dfkundenbetreuer:in Immobilien- und Projektfinanzierung",
@@ -1004,9 +1004,9 @@
       "location": ""
     },
     {
-      "title": "Studierende",
-      "href": "https://www.erstegroup.com/de/karriere/studierende",
-      "location": "Studierende"
+      "title": "Studierende und Absolvent:innen",
+      "href": "https://www.erstegroup.com/de/karriere/studierende-absolventinnen",
+      "location": "Studierende und Absolvent:innen"
     },
     {
       "title": "Sustainable Finance",
@@ -1084,7 +1084,7 @@
       "location": "\u00dcbersicht"
     }
   ],
-  "page_text_hash": "0b29aab0140c5519bdbcf5d35abedaeb9708de11814156d9debaa76e39220d6c",
+  "page_text_hash": "ade74d63f2177e14e4f33760b9765a93607a1fd2105f761a8b5a8f7ce3613c75",
   "job_count": 216,
   "job_candidates": [
     {
@@ -1101,11 +1101,6 @@
       "title": "+43 (0)5 0100 - 10100",
       "href": "tel:+435010010100",
       "location": "+43 (0)5 0100 - 10100"
-    },
-    {
-      "title": "Absolvent:innen",
-      "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
-      "location": "Absolvent:innen"
     },
     {
       "title": "Account Manager:in im Au\u00dfendienst Bankenvertrieb Leasing (all genders)",
@@ -1436,6 +1431,11 @@
       "title": "Gesetzliche Bekanntmachungen - Eigene Aktien",
       "href": "https://www.erstegroup.com/de/investoren/news/bekanntmachungen_eigene_Aktien",
       "location": "Gesetzliche Bekanntmachungen - Eigene Aktien"
+    },
+    {
+      "title": "Group Auditor (w/m/w) ab 30h",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Gro\u00dfkundenbetreuer:in Immobilien- und Projektfinanzierung",
@@ -2088,9 +2088,9 @@
       "location": ""
     },
     {
-      "title": "Studierende",
-      "href": "https://www.erstegroup.com/de/karriere/studierende",
-      "location": "Studierende"
+      "title": "Studierende und Absolvent:innen",
+      "href": "https://www.erstegroup.com/de/karriere/studierende-absolventinnen",
+      "location": "Studierende und Absolvent:innen"
     },
     {
       "title": "Sustainable Finance",

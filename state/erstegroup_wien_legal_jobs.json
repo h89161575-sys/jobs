@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-25T12:58:08+00:00",
+  "updated_at": "2026-02-25T23:02:45+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -220,6 +220,11 @@
     },
     {
       "title": "Duale Akademie f\u00fcr AHS-Absolvent:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "E-Learning Autor:in (Befristet)",
       "href": "",
       "location": ""
     },
@@ -1065,7 +1070,7 @@
     }
   ],
   "page_text_hash": "ade74d63f2177e14e4f33760b9765a93607a1fd2105f761a8b5a8f7ce3613c75",
-  "job_count": 212,
+  "job_count": 213,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Gesch\u00e4ftskundenbereich (w/m/d)",
@@ -1284,6 +1289,11 @@
     },
     {
       "title": "Duale Akademie f\u00fcr AHS-Absolvent:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "E-Learning Autor:in (Befristet)",
       "href": "",
       "location": ""
     },

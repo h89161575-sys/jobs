@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-03T12:57:40+00:00",
+  "updated_at": "2026-03-03T14:01:15+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -259,11 +259,6 @@
       "location": ""
     },
     {
-      "title": "Ferialjob & Praktika",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -699,7 +694,7 @@
       "location": ""
     },
     {
-      "title": "Mitarbeiter:in Kundenservice Graz - Vollzeit/Teilzeit m\u00f6glich (w/m/d)",
+      "title": "Mitarbeiter:in Kundenservice Graz - Vollzeit/Teilzeit m\u00f6glich",
       "href": "",
       "location": ""
     },
@@ -782,6 +777,11 @@
       "title": "Position",
       "href": "",
       "location": "Dienstort"
+    },
+    {
+      "title": "Praktikant:in Marketing Herbst 26",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Presseaussendungen",
@@ -917,6 +917,11 @@
       "title": "Risiken minimieren",
       "href": "https://www.erstegroup.com/de/firmenkunden/risiken-minimieren",
       "location": "Risiken minimieren"
+    },
+    {
+      "title": "Risk Management Underwriter:in (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Riskmanager Wohnbau (w/m/d)",
@@ -1075,7 +1080,7 @@
     }
   ],
   "page_text_hash": "843aeed771e794af25eb7628e40212c5c40e745d43508b6383b08c02ba0fc4ee",
-  "job_count": 214,
+  "job_count": 215,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Gesch\u00e4ftskundenbereich (w/m/d)",
@@ -1333,11 +1338,6 @@
       "location": ""
     },
     {
-      "title": "Ferialjob & Praktika",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -1773,7 +1773,7 @@
       "location": ""
     },
     {
-      "title": "Mitarbeiter:in Kundenservice Graz - Vollzeit/Teilzeit m\u00f6glich (w/m/d)",
+      "title": "Mitarbeiter:in Kundenservice Graz - Vollzeit/Teilzeit m\u00f6glich",
       "href": "",
       "location": ""
     },
@@ -1856,6 +1856,11 @@
       "title": "Position",
       "href": "",
       "location": "Dienstort"
+    },
+    {
+      "title": "Praktikant:in Marketing Herbst 26",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Presseaussendungen",
@@ -1991,6 +1996,11 @@
       "title": "Risiken minimieren",
       "href": "https://www.erstegroup.com/de/firmenkunden/risiken-minimieren",
       "location": "Risiken minimieren"
+    },
+    {
+      "title": "Risk Management Underwriter:in (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Riskmanager Wohnbau (w/m/d)",

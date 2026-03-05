@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-04T12:50:36+00:00",
+  "updated_at": "2026-03-05T07:40:11+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -130,6 +130,11 @@
     },
     {
       "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Kommerzkund:innen",
       "href": "",
       "location": ""
     },
@@ -539,17 +544,17 @@
       "location": ""
     },
     {
-      "title": "Kundenbetreuung (w/m/d) Filiale Oberandritz",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kundenbetreuung Bezirk Leibnitz oder Bezirk Deutschlandsberg (m/w/d)",
       "href": "",
       "location": ""
     },
     {
       "title": "Kundenbetreuung Bezirk Liezen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Filiale Oberandritz (w/m/d)",
       "href": "",
       "location": ""
     },
@@ -1065,7 +1070,7 @@
     }
   ],
   "page_text_hash": "843aeed771e794af25eb7628e40212c5c40e745d43508b6383b08c02ba0fc4ee",
-  "job_count": 212,
+  "job_count": 213,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Gesch\u00e4ftskundenbereich (w/m/d)",
@@ -1194,6 +1199,11 @@
     },
     {
       "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Kommerzkund:innen",
       "href": "",
       "location": ""
     },
@@ -1603,17 +1613,17 @@
       "location": ""
     },
     {
-      "title": "Kundenbetreuung (w/m/d) Filiale Oberandritz",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kundenbetreuung Bezirk Leibnitz oder Bezirk Deutschlandsberg (m/w/d)",
       "href": "",
       "location": ""
     },
     {
       "title": "Kundenbetreuung Bezirk Liezen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Filiale Oberandritz (w/m/d)",
       "href": "",
       "location": ""
     },

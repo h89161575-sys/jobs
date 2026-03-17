@@ -1,8 +1,18 @@
 {
-  "updated_at": "2026-03-17T12:01:20+00:00",
+  "updated_at": "2026-03-17T13:55:55+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/para-legal-all-genders-group-corporate-governance-office/32011",
+      "location": "Position Unternehmen Dienstort Online seit (Para-)legal (all genders) Group Corporate Governance Office Erste Group Bank AG Wien 17.03.2026 Markets Compliance Officer (all genders) Erste Group Bank AG Wien 16.03.2026 Juristisches Praktikum im IT- und Datenschutzrecht (all humans) Erste Digital Wien 10.03.2026"
+    },
     {
       "title": "+43 (0)5 0100 - 10100",
       "href": "tel:+435010010100",
@@ -651,7 +661,7 @@
     {
       "title": "Markets Compliance Officer (all genders)",
       "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/markets-compliance-officer-all-genders/32316",
-      "location": "Position Unternehmen Dienstort Online seit Markets Compliance Officer (all genders) Erste Group Bank AG Wien 16.03.2026 Juristisches Praktikum im IT- und Datenschutzrecht (all humans) Erste Digital Wien 10.03.2026"
+      "location": "Position Unternehmen Dienstort Online seit (Para-)legal (all genders) Group Corporate Governance Office Erste Group Bank AG Wien 17.03.2026 Markets Compliance Officer (all genders) Erste Group Bank AG Wien 16.03.2026 Juristisches Praktikum im IT- und Datenschutzrecht (all humans) Erste Digital Wien 10.03.2026"
     },
     {
       "title": "Markets Execution",
@@ -747,6 +757,11 @@
       "title": "Online Gesch\u00e4ftsberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/online",
       "location": "Online Gesch\u00e4ftsberichte"
+    },
+    {
+      "title": "Operations Manager Factoring (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "operatives Risikomanagement",
@@ -1000,6 +1015,11 @@
     },
     {
       "title": "Steuerspezialist:in (m/w/d) 20 Wochenstunden",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Strategic Business Insights Analyst (w/m/d)",
       "href": "",
       "location": ""
     },
@@ -1109,9 +1129,19 @@
       "location": "\u00dcbersicht"
     }
   ],
-  "page_text_hash": "f62499646afc734f868e2366a7895ac6b0b5fe46958df2b9dbc2cfe531847ce1",
-  "job_count": 221,
+  "page_text_hash": "7af4d73c73ee9e3db5bb4c3db0fd3aa55a7d547ee2aa7e74c5e6c5f2dd3ea969",
+  "job_count": 225,
   "job_candidates": [
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/para-legal-all-genders-group-corporate-governance-office/32011",
+      "location": "Position Unternehmen Dienstort Online seit (Para-)legal (all genders) Group Corporate Governance Office Erste Group Bank AG Wien 17.03.2026 Markets Compliance Officer (all genders) Erste Group Bank AG Wien 16.03.2026 Juristisches Praktikum im IT- und Datenschutzrecht (all humans) Erste Digital Wien 10.03.2026"
+    },
     {
       "title": "+43 (0)5 0100 - 10100",
       "href": "tel:+435010010100",
@@ -1760,7 +1790,7 @@
     {
       "title": "Markets Compliance Officer (all genders)",
       "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/markets-compliance-officer-all-genders/32316",
-      "location": "Position Unternehmen Dienstort Online seit Markets Compliance Officer (all genders) Erste Group Bank AG Wien 16.03.2026 Juristisches Praktikum im IT- und Datenschutzrecht (all humans) Erste Digital Wien 10.03.2026"
+      "location": "Position Unternehmen Dienstort Online seit (Para-)legal (all genders) Group Corporate Governance Office Erste Group Bank AG Wien 17.03.2026 Markets Compliance Officer (all genders) Erste Group Bank AG Wien 16.03.2026 Juristisches Praktikum im IT- und Datenschutzrecht (all humans) Erste Digital Wien 10.03.2026"
     },
     {
       "title": "Markets Execution",
@@ -1856,6 +1886,11 @@
       "title": "Online Gesch\u00e4ftsberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/online",
       "location": "Online Gesch\u00e4ftsberichte"
+    },
+    {
+      "title": "Operations Manager Factoring (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "operatives Risikomanagement",
@@ -2109,6 +2144,11 @@
     },
     {
       "title": "Steuerspezialist:in (m/w/d) 20 Wochenstunden",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Strategic Business Insights Analyst (w/m/d)",
       "href": "",
       "location": ""
     },

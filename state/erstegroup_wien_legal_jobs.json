@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-20T10:34:57+00:00",
+  "updated_at": "2026-03-20T13:59:54+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -1234,6 +1234,11 @@
       "location": "Wachstum generieren"
     },
     {
+      "title": "Welcome Desk Mitarbeiter:in (Teilzeit 23h)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "WhatsApp",
       "href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.erstegroup.com%2Fde%2Fkarriere%2Fstellenangebote%23%2Fjoblist%2Flocation%2FWien%2Fdiscipline_items%2FLegal%2520%252F%2520Compliance%2520%252F%2520Audit",
       "location": ""
@@ -1295,7 +1300,7 @@
     }
   ],
   "page_text_hash": "8ec5acc57c99a7803971dcd9694cf0afc8a2d1325974e7213fc0cfeb5ffbb3ca",
-  "job_count": 258,
+  "job_count": 259,
   "job_candidates": [
     {
       "title": "(Para-)legal (all genders) Group Corporate Governance Office",
@@ -2526,6 +2531,11 @@
       "title": "Wachstum generieren",
       "href": "https://www.erstegroup.com/de/firmenkunden/wachstum",
       "location": "Wachstum generieren"
+    },
+    {
+      "title": "Welcome Desk Mitarbeiter:in (Teilzeit 23h)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "WhatsApp",

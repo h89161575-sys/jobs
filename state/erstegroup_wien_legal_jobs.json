@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-25T07:57:15+00:00",
+  "updated_at": "2026-03-25T09:51:54+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -127,6 +127,11 @@
       "title": "Benefits",
       "href": "https://www.erstegroup.com/de/karriere/benefits",
       "location": "Benefits"
+    },
+    {
+      "title": "Berater:in f\u00fcr Wohnbau- und Privatfinanzierungen (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Berater:in Wohnfinanzierung Klagenfurt und Lienz",
@@ -764,11 +769,6 @@
       "location": "Markets Execution"
     },
     {
-      "title": "Microsoft Dynamics 365 CRM Senior Developer & Support Specialist (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Mitarbeiter (w/m/d) Vertrieb",
       "href": "",
       "location": ""
@@ -810,11 +810,6 @@
     },
     {
       "title": "Model Landscape Expert for Credit Risk (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "MS Infrastructure Specialist (all humans)",
       "href": "",
       "location": ""
     },
@@ -875,11 +870,6 @@
     },
     {
       "title": "Payment Process Owner (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Pega System Architect (SA)/(SSA) (all humans)",
       "href": "",
       "location": ""
     },
@@ -1059,11 +1049,6 @@
       "location": ""
     },
     {
-      "title": "Senior Software Engineer (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
@@ -1079,17 +1064,7 @@
       "location": "Social Banking"
     },
     {
-      "title": "Software Engineer #Java #Angular #PL/SQL (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Software Engineer (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Software Tester for Lending Solutions (all humans)",
       "href": "",
       "location": ""
     },
@@ -1280,7 +1255,7 @@
     }
   ],
   "page_text_hash": "fd6c64eee46232ddcdf2711c64b923ee75e2db13646a783620c464a26fd205d3",
-  "job_count": 255,
+  "job_count": 250,
   "job_candidates": [
     {
       "title": "(Para-)legal (all genders) Group Corporate Governance Office",
@@ -1406,6 +1381,11 @@
       "title": "Benefits",
       "href": "https://www.erstegroup.com/de/karriere/benefits",
       "location": "Benefits"
+    },
+    {
+      "title": "Berater:in f\u00fcr Wohnbau- und Privatfinanzierungen (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Berater:in Wohnfinanzierung Klagenfurt und Lienz",
@@ -2043,11 +2023,6 @@
       "location": "Markets Execution"
     },
     {
-      "title": "Microsoft Dynamics 365 CRM Senior Developer & Support Specialist (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Mitarbeiter (w/m/d) Vertrieb",
       "href": "",
       "location": ""
@@ -2089,11 +2064,6 @@
     },
     {
       "title": "Model Landscape Expert for Credit Risk (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "MS Infrastructure Specialist (all humans)",
       "href": "",
       "location": ""
     },
@@ -2154,11 +2124,6 @@
     },
     {
       "title": "Payment Process Owner (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Pega System Architect (SA)/(SSA) (all humans)",
       "href": "",
       "location": ""
     },
@@ -2338,11 +2303,6 @@
       "location": ""
     },
     {
-      "title": "Senior Software Engineer (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
@@ -2358,17 +2318,7 @@
       "location": "Social Banking"
     },
     {
-      "title": "Software Engineer #Java #Angular #PL/SQL (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Software Engineer (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Software Tester for Lending Solutions (all humans)",
       "href": "",
       "location": ""
     },

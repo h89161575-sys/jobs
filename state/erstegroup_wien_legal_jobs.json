@@ -1,9 +1,2561 @@
 {
-  "updated_at": "2026-03-25T01:55:52+00:00",
+  "updated_at": "2026-03-25T04:20:13+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
-  "comparison_mode": "page_hash",
-  "comparison_value": "57e4c63d4bf2da8469065b4c585034df40c2392d7fc00111706288db6230674d",
-  "page_text_hash": "57e4c63d4bf2da8469065b4c585034df40c2392d7fc00111706288db6230674d",
-  "job_count": 0,
-  "job_candidates": []
+  "comparison_mode": "jobs",
+  "comparison_value": [
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/para-legal-all-genders-group-corporate-governance-office/32011",
+      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance Erste Group Bank AG Wien 23.03.2026 (Para-)legal (all genders) Group Corporate Governance Office Erste Gro"
+    },
+    {
+      "title": "+43 (0)5 0100 - 10100",
+      "href": "tel:+435010010100",
+      "location": "+43 (0)5 0100 - 10100"
+    },
+    {
+      "title": ", \u00d6ffnet in neuem Fenster",
+      "href": "https://www.whatchado.com/de/organizations/erste-bank",
+      "location": ", \u00d6ffnet in neuem Fenster"
+    },
+    {
+      "title": ", \u00d6ffnet in neuem Fenster",
+      "href": "https://www.xing.com/companies/erstebank",
+      "location": ", \u00d6ffnet in neuem Fenster"
+    },
+    {
+      "title": ", \u00d6ffnet in neuem Fenster",
+      "href": "https://www.youtube.com/channel/UCIE-NuqjXjz9DHulnzA8ONg",
+      "location": ", \u00d6ffnet in neuem Fenster"
+    },
+    {
+      "title": "Abonnieren",
+      "href": "https://www.erstegroup.com/de/news-media/medieninformationen/anmeldung-medieninformation",
+      "location": "Erhalten Sie per E-Mail die neuesten Erste Group Informationen Abonnieren"
+    },
+    {
+      "title": "AbsolventInnen",
+      "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
+      "location": "AbsolventInnen"
+    },
+    {
+      "title": "Account Manager - Projektfinanzierungen Wohnbau (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Account Manager:in im Au\u00dfendienst Bankenvertrieb Leasing (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Additional Tier 1 Notes",
+      "href": "https://www.erstegroup.com/de/investoren/debt/at1",
+      "location": "Additional Tier 1 Notes"
+    },
+    {
+      "title": "AI Software Developer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Aktieninformation",
+      "href": "https://www.erstegroup.com/de/investoren/aktie",
+      "location": "AktieninformationChart Erste Group-AktieAktion\u00e4rsstrukturAnalysten und Sch\u00e4tzungenKennzahlen und DividendeDirectors Dealings"
+    },
+    {
+      "title": "Aktion\u00e4rsstruktur",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/aktionaersstruktur",
+      "location": "Aktion\u00e4rsstruktur"
+    },
+    {
+      "title": "Allgemeine Gesch\u00e4ftsbedingungen",
+      "href": "https://www.erstegroup.com/de/legal-information/geschaeftsbedingungen",
+      "location": "Allgemeine Gesch\u00e4ftsbedingungen"
+    },
+    {
+      "title": "Analysten und Sch\u00e4tzungen",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungen",
+      "location": "Analysten und Sch\u00e4tzungen"
+    },
+    {
+      "title": "Assistenz Gro\u00dfkund:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Assistenz im Private Banking (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Audit Specialist Risk Models (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Auslandsm\u00e4rkte erschlie\u00dfen",
+      "href": "https://www.erstegroup.com/de/firmenkunden/auslandsmaerkte-erschliessen",
+      "location": "Auslandsm\u00e4rkte erschlie\u00dfen"
+    },
+    {
+      "title": "Auszeichnungen",
+      "href": "https://www.erstegroup.com/de/ueber-uns/auszeichnungen",
+      "location": "Auszeichnungen"
+    },
+    {
+      "title": "Bank Client Relationship Manager (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Barrierefreiheits-Erkl\u00e4rung",
+      "href": "https://www.erstegroup.com/de/legal-information/barrierefreiheitserklaerung",
+      "location": "Barrierefreiheits-Erkl\u00e4rung"
+    },
+    {
+      "title": "Basisinformationsbl\u00e4tter (KIDs)",
+      "href": "https://www.erstegroup.com/de/ueber-uns/erste-group-emissionen/basisinformationsblaetter",
+      "location": "Basisinformationsbl\u00e4tter (KIDs)"
+    },
+    {
+      "title": "Benefits",
+      "href": "https://www.erstegroup.com/de/karriere/benefits",
+      "location": "Benefits"
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung Klagenfurt und Lienz",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung N\u00d6 Mitte, Wein- und Waldviertel",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung O\u00d6",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung Salzburg",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung Vorarlberg",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Bereichsleiter Stellvertretung Immobilienmanagement (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte",
+      "location": "BerichteFinanzberichteRegulatorische BerichteNichtfinanzielle BerichteOnline Gesch\u00e4ftsberichte"
+    },
+    {
+      "title": "Berufserfahrene",
+      "href": "https://www.erstegroup.com/de/karriere/berufserfahrene",
+      "location": "Berufserfahrene"
+    },
+    {
+      "title": "Berufspraktische Tage - Schnupper mit uns in die Welt der Banken",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Kommerzkund:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Privat- und Firmenkunden Lech am Arlberg (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Privatkunden",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuung Gesch\u00e4ftskunden im Raum M\u00f6lltal - all genders",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Bond-Investoren",
+      "href": "https://www.erstegroup.com/de/investoren/debt",
+      "location": "Bond-InvestorenErste Group EmissionenAdditional Tier 1 NotesRefinanzierung und ProdukteSustainable FinanceRatingsPr\u00e4sentationenDownload-Center"
+    },
+    {
+      "title": "Cash Management Financial Institutions",
+      "href": "https://www.erstegroup.com/de/financial-institutions/cash-management-fin-institutions",
+      "location": "Cash Management Financial Institutions"
+    },
+    {
+      "title": "CASH.VIEW",
+      "href": "https://cpe.erste-group.com/itsweb/web2/",
+      "location": "CASH.VIEW"
+    },
+    {
+      "title": "Chart Erste Group-Aktie",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/aktie-chart",
+      "location": "Chart Erste Group-Aktie"
+    },
+    {
+      "title": "Co-Betreuung Firmenkunden",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Communication Evaluation & Insights Expert (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Communications Expert (all genders) - Focus on Capital Markets & Financial Media",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Corporate Risk Manager (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Custody Services",
+      "href": "https://www.erstegroup.com/de/financial-institutions/custody-services",
+      "location": "Custody Services"
+    },
+    {
+      "title": "Customer Referral",
+      "href": "https://www.erstegroup.com/de/financial-institutions/customer-referral",
+      "location": "Customer Referral"
+    },
+    {
+      "title": "Customer Service Agent (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Directors Dealings",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/directorsdealings",
+      "location": "Directors Dealings"
+    },
+    {
+      "title": "Disclaimer",
+      "href": "https://www.erstegroup.com/de/legal-information/disclaimer",
+      "location": "Disclaimer"
+    },
+    {
+      "title": "Diversit\u00e4t",
+      "href": "https://www.erstegroup.com/de/ueber-uns/nachhaltigkeit-esg/diversitaet",
+      "location": "Diversit\u00e4t"
+    },
+    {
+      "title": "Download-Center",
+      "href": "https://www.erstegroup.com/de/investoren/debt/downloads",
+      "location": "Download-Center"
+    },
+    {
+      "title": "Duale Akademie @ Erste Bank - ab Oktober 2026 (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Duale Akademie f\u00fcr AHS-Absolvent:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "E-Mail",
+      "href": "mailto:?subject=Stellenangebot&body=Hallo%2C%0D%0A%0D%0Adas%20ist%20ein%20interessantes%20Stellenangebot%3A%0D%0Ahttps%3A%2F%2Fwww.erstegroup.com%2Fde%2Fkarriere%2Fstellenangebote%23%2Fjoblist%2Flocation%2FWien%2Fdiscipline_items%2FLegal%2520%252F%2520Compliance%2520%252F%2520Audit",
+      "location": ""
+    },
+    {
+      "title": "Eink\u00e4ufer Immobilien und Technik (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Einlagensicherung",
+      "href": "https://www.erstegroup.com/de/legal-information/einlagensicherung",
+      "location": "Einlagensicherung"
+    },
+    {
+      "title": "English",
+      "href": "https://www.erstegroup.com/en/career/positions-offered",
+      "location": "English Suche"
+    },
+    {
+      "title": "Erste Campus",
+      "href": "https://www.erstegroup.com/de/ueber-uns/erste-campus",
+      "location": "Erste Campus"
+    },
+    {
+      "title": "Erste Group Emissionen",
+      "href": "https://www.erstegroup.com/de/investments",
+      "location": "Erste Group Emissionen"
+    },
+    {
+      "title": "Erste Group im \u00dcberblick",
+      "href": "https://www.erstegroup.com/de/news-media/erste-group-ueberblick",
+      "location": "Erste Group im \u00dcberblick"
+    },
+    {
+      "title": "ErsteConfirming",
+      "href": "https://confirming.erstegroup.com/iMX/login.jsp",
+      "location": "ErsteConfirming"
+    },
+    {
+      "title": "Events",
+      "href": "https://www.erstegroup.com/de/investoren/events",
+      "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
+    },
+    {
+      "title": "Expert:in im Digital Corporate Sales & Vertriebssteuerung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Facility Manager:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/fh-uni-praktikum-im-corporate-governance-office-w-m-d-work-study-governance-compliance/31878",
+      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance Erste Group Bank AG Wien 23.03.2026 (Para-)legal (all genders) Group Corporate Governance Office Erste Gro"
+    },
+    {
+      "title": "Filialen",
+      "href": "https://www.erstegroup.com/de/ueber-uns/filialen",
+      "location": "Filialen"
+    },
+    {
+      "title": "Finanzberichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
+      "location": "Finanzberichte"
+    },
+    {
+      "title": "Finanzierungsexpert:in (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Finanzinstitute",
+      "href": "https://www.erstegroup.com/de/financial-institutions",
+      "location": "Finanzinstitute"
+    },
+    {
+      "title": "Finanzkalender",
+      "href": "https://www.erstegroup.com/de/investoren/events/finanzkalender",
+      "location": "Finanzkalender"
+    },
+    {
+      "title": "Finanzkalender",
+      "href": "https://www.erstegroup.com/de/news-media/finanz-kalender",
+      "location": "Finanzkalender"
+    },
+    {
+      "title": "Finanzkennzahlen YE 2025",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/tab/IR_Tab_YE25_EG_fin_data_sheets.xlsx",
+      "location": "Finanzkennzahlen YE 2025"
+    },
+    {
+      "title": "Firmenkunden",
+      "href": "https://www.erstegroup.com/de/firmenkunden",
+      "location": "Firmenkunden"
+    },
+    {
+      "title": "Firmenkundenbetreuer:in im Filialbereich (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Firmenkundenbetreuer:in inkl. Immobilien- und Projektfinanzierungen Corporate Banking Wien",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Fotos",
+      "href": "https://www.erstegroup.com/de/news-media/fotos",
+      "location": "Fotos"
+    },
+    {
+      "title": "Gesch\u00e4ftsbericht 2025",
+      "href": "https://www.erstegroup.com/de/investoren/geschaeftsbericht2025",
+      "location": "Gesch\u00e4ftsbericht 2025"
+    },
+    {
+      "title": "Gesetzliche Bekanntmachungen - Andere",
+      "href": "https://www.erstegroup.com/de/investoren/news/bekanntmachungen_andere",
+      "location": "Gesetzliche Bekanntmachungen - Andere"
+    },
+    {
+      "title": "Gesetzliche Bekanntmachungen - Eigene Aktien",
+      "href": "https://www.erstegroup.com/de/investoren/news/bekanntmachungen_eigene_Aktien",
+      "location": "Gesetzliche Bekanntmachungen - Eigene Aktien"
+    },
+    {
+      "title": "Handelsfinanzierung",
+      "href": "https://www.erstegroup.com/de/financial-institutions/trade-finance",
+      "location": "Handelsfinanzierung"
+    },
+    {
+      "title": "Hauptversammlungen",
+      "href": "https://www.erstegroup.com/de/investoren/events/hauptversammlungen",
+      "location": "Hauptversammlungen"
+    },
+    {
+      "title": "Haustechniker (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Haustechniker:in (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "hier",
+      "href": "https://www.erstegroup.com/de/rechtliches/datenschutz",
+      "location": "Wenn Sie \u00fcber 16 Jahre sind, klicken Sie auf \u201eIch bin einverstanden\u201c, um alle Verwendungszwecken (inklusive Webanalyse) zuzustimmen, oder auf \"Ablehnen\", um nur mit den technisch notwendigen Verarbeitungen fortzufahren. In den Cookie-Einstellungen k\u00f6nnen Sie ausw\u00e4hlen, wenn Sie bestimmte Cookies annehmen oder ablehnen m\u00f6chten. Ihre Cookie-Einstellu"
+    },
+    {
+      "title": "HR Expert:in Learning & Development",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "HR Generalist (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Immobilienverwalter (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Infos \u00fcber Wertpapier\u00addienstleistungen",
+      "href": "https://www.erstegroup.com/de/legal-information/mifid",
+      "location": "Infos \u00fcber Wertpapier\u00addienstleistungen"
+    },
+    {
+      "title": "Initiativbewerbung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung - Sparkasse Mittersill",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung - Sparkasse Neunkirchen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung bei der KREMSER BANK",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung bei der Sparkasse Herzogenburg-Neulengbach",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung bei der Sparkasse N\u00d6 Mitte West",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung in der Sparkasse O\u00d6 (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung K\u00e4rntner Sparkasse AG - all genders",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung und Quereinsteiger:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Insiderinformationen",
+      "href": "https://www.erstegroup.com/de/investoren/news/mar",
+      "location": "Insiderinformationen"
+    },
+    {
+      "title": "Interne Revision (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Investieren in Erste Group",
+      "href": "https://www.erstegroup.com/de/investoren/investieren",
+      "location": "Investieren in Erste Group"
+    },
+    {
+      "title": "Investoren",
+      "href": "https://www.erstegroup.com/de/investoren",
+      "location": "Investoren"
+    },
+    {
+      "title": "Investoreninformation YE 2025",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/de/ir/2026/news_de/IR_News_260226de_YE25.pdf",
+      "location": "Investoreninformation YE 2025"
+    },
+    {
+      "title": "Investoreninformationen",
+      "href": "https://www.erstegroup.com/de/investoren/news/investoreninformation",
+      "location": "Investoreninformationen"
+    },
+    {
+      "title": "IR Team",
+      "href": "https://www.erstegroup.com/de/investoren/ir-contacts",
+      "location": "IR Team"
+    },
+    {
+      "title": "IT Risk Manager (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "IT- und Prozessorganisator:in (m/w/d), Teilzeit",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "jederzeit \u00e4ndern",
+      "href": "https://www.erstegroup.com/de/rechtliches/datenschutz/cookies",
+      "location": "Wenn Sie \u00fcber 16 Jahre sind, klicken Sie auf \u201eIch bin einverstanden\u201c, um alle Verwendungszwecken (inklusive Webanalyse) zuzustimmen, oder auf \"Ablehnen\", um nur mit den technisch notwendigen Verarbeitungen fortzufahren. In den Cookie-Einstellungen k\u00f6nnen Sie ausw\u00e4hlen, wenn Sie bestimmte Cookies annehmen oder ablehnen m\u00f6chten. Ihre Cookie-Einstellu"
+    },
+    {
+      "title": "Jetzt bewerben",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote#jobs",
+      "location": "Jetzt bewerben"
+    },
+    {
+      "title": "Junior Controller:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kennzahlen und Dividende",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/aktie-kennzahlen",
+      "location": "Kennzahlen und Dividende"
+    },
+    {
+      "title": "Kommerzkundenberater:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kommerzkundenbetreuer:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kommerzkundenbetreuer:in (m/w/d) mit Schwerpunkt Immobilienfinanzierung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kommerzkundenbetreuung Kufstein und W\u00f6rgl",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Koordinator:in Bauabwicklung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kredit- und Kapitalm\u00e4rkte nutzen",
+      "href": "https://www.erstegroup.com/de/firmenkunden/kapitalmaerkte-nutzen",
+      "location": "Kredit- und Kapitalm\u00e4rkte nutzen"
+    },
+    {
+      "title": "Kreditrisikomanager:in (Kommerzkundensegment)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kreditrisikomanager:in (Privatkundensegment)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenberater (m/w/d Rohrbach-Berg Teilzeit bis Vollzeit)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenberater:in Private Banking (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "KundenberaterIn",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenberatung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuer:in Corporate (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuer:in Immobilien (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuer:in Projektfinanzierungen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Bezirk Liezen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Filiale Oberandritz (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Gesch\u00e4ftskunden (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Premium",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Raum Graz (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Top",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "KYC Dokumente",
+      "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
+      "location": "KYC Dokumente"
+    },
+    {
+      "title": "Lehre @ Erste Bank - ab September 2026 (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Lehrling Bankkaufmann /-frau in unseren Filialen (m/w/d) 2026",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leiter:in Private Banking (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Immobilien \"Planung, Technik & Sicherheit\" (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Personal (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Wohnbau- & Privatfinanzierungen (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Letzte Ver\u00f6ffentlichungen",
+      "href": "https://www.erstegroup.com/de/investoren/news",
+      "location": "Letzte Ver\u00f6ffentlichungenInvestoreninformation YE 2025Pr\u00e4sentation YE 2025Finanzkennzahlen YE 2025"
+    },
+    {
+      "title": "Lieferketten sicher finanzieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/lieferketten-sicher-finanzieren",
+      "location": "Lieferketten sicher finanzieren"
+    },
+    {
+      "title": "Liquidit\u00e4t optimieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/liquiditaet",
+      "location": "Liquidit\u00e4t optimieren"
+    },
+    {
+      "title": "Managing Director (all genders) People Services",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Marketing (Teilzeit bis Vollzeit in Rohrbach-Berg)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Markets Compliance Officer (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Markets Compliance Officer (all genders)",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/markets-compliance-officer-all-genders/32316",
+      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance Erste Group Bank AG Wien 23.03.2026 (Para-)legal (all genders) Group Corporate Governance Office Erste Gro"
+    },
+    {
+      "title": "Markets Execution",
+      "href": "https://www.erstegroup.com/de/financial-institutions/group-markets-execution",
+      "location": "Markets Execution"
+    },
+    {
+      "title": "Microsoft Dynamics 365 CRM Senior Developer & Support Specialist (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter (w/m/d) Vertrieb",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Compliance & Recht (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Customer Experience & Qualit\u00e4tsmanagement (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in f\u00fcr die Rechtsabteilung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Kreditrestrukturierung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Kundenservice Graz - Vollzeit/Teilzeit m\u00f6glich",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Ombudsstelle (19 Std./Woche)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Treasury-Eigengesch\u00e4ft & Asset Liability Management (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Model Landscape Expert for Credit Risk (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "MS Infrastructure Specialist (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "MS Infrastruktur-/Server-Engineer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Nachhaltigkeit \u2013 ESG",
+      "href": "https://www.erstegroup.com/de/ueber-uns/nachhaltigkeit-esg",
+      "location": "Nachhaltigkeit \u2013 ESG"
+    },
+    {
+      "title": "Navigation \u00fcberspringen",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote#content",
+      "location": "Navigation \u00fcberspringen"
+    },
+    {
+      "title": "News",
+      "href": "https://www.erstegroup.com/de/investoren/news",
+      "location": "NewsInvestoreninformationenInsiderinformationenGesetzliche Bekanntmachungen - Eigene AktienGesetzliche Bekanntmachungen - Andere"
+    },
+    {
+      "title": "News & Media",
+      "href": "https://www.erstegroup.com/de/news-media",
+      "location": "News & Media"
+    },
+    {
+      "title": "Nichtfinanzielle Berichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/nichtfinanzielle_berichte",
+      "location": "Nichtfinanzielle Berichte"
+    },
+    {
+      "title": "Office Management / Vertriebsbackoffice",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Ombudsmann/Beschwerden",
+      "href": "https://www.erstegroup.com/de/ueber-uns/ombudsstelle-beschwerden",
+      "location": "Ombudsmann/Beschwerden"
+    },
+    {
+      "title": "Online Gesch\u00e4ftsberichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/online",
+      "location": "Online Gesch\u00e4ftsberichte"
+    },
+    {
+      "title": "Operations Manager Factoring (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "operatives Risikomanagement",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Payment Process Owner (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Pega System Architect (SA)/(SSA) (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Personal Assistant to Head of Group Communications and Corporate Affairs (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Position",
+      "href": "",
+      "location": "Dienstort"
+    },
+    {
+      "title": "Praktikant:in Marketing Herbst 26",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Presseaussendungen",
+      "href": "https://www.erstegroup.com/de/news-media/presseaussendungen",
+      "location": "Presseaussendungen"
+    },
+    {
+      "title": "Private Banking",
+      "href": "https://www.ersteprivatebanking.com",
+      "location": "Private Banking"
+    },
+    {
+      "title": "Private Banking",
+      "href": "https://www.ersteprivatebanking.com/de/home",
+      "location": "Private Banking"
+    },
+    {
+      "title": "Private Banking & Wealth Management - Berater:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkunden",
+      "href": "https://www.erstegroup.com/de/privatkunden",
+      "location": "Privatkunden"
+    },
+    {
+      "title": "Privatkundenberater:in f\u00fcr die Filiale Hard",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in (m/w/d) in einer Filiale der Region S\u00fcd",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in f\u00fcr die Filiale in Frauenkirchen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in in der Filiale Lustenau (100 %)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Projektleiter (w/m/d) Wohnbau",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Projektleitung Hochbau (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Projektmanager (w/m/d) Geb\u00e4udetechnik / HKLS / Elektro",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Pr\u00e4sentation YE 2025",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260226_YE25.pdf",
+      "location": "Pr\u00e4sentation YE 2025"
+    },
+    {
+      "title": "Pr\u00e4sentationen",
+      "href": "https://www.erstegroup.com/de/investoren/debt/praesentationen",
+      "location": "Pr\u00e4sentationen"
+    },
+    {
+      "title": "Pr\u00e4sentationen, Webcasts, etc.",
+      "href": "https://www.erstegroup.com/de/investoren/events/irevents",
+      "location": "Pr\u00e4sentationen, Webcasts, etc."
+    },
+    {
+      "title": "Quant Risk Specialist (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Ratings",
+      "href": "https://www.erstegroup.com/de/investoren/debt/ratings",
+      "location": "Ratings"
+    },
+    {
+      "title": "Rechte bei europaweiten Zahlungen",
+      "href": "https://commission.europa.eu/system/files/2019-09/leaflet-your-rights-payments-eu_en.pdf",
+      "location": "Rechte bei europaweiten Zahlungen"
+    },
+    {
+      "title": "Referenzwerte-Vollzugsgesetz",
+      "href": "https://www.erstegroup.com/de/legal-information/referenzwerte-vollzugsgesetz",
+      "location": "Referenzwerte-Vollzugsgesetz"
+    },
+    {
+      "title": "Refinanzierung und Produkte",
+      "href": "https://www.erstegroup.com/de/investoren/debt",
+      "location": "Refinanzierung und Produkte"
+    },
+    {
+      "title": "Regulatorische Berichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/regulatorische_berichte",
+      "location": "Regulatorische Berichte"
+    },
+    {
+      "title": "Research",
+      "href": "https://www.erstegroup.com/de/research",
+      "location": "Research"
+    },
+    {
+      "title": "Risiken minimieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/risiken-minimieren",
+      "location": "Risiken minimieren"
+    },
+    {
+      "title": "Risk Management Underwriter:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Riskmanager Wohnbau (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Sch\u00fclerInnen",
+      "href": "https://www.erstegroup.com/de/karriere/schuelerinnen",
+      "location": "Sch\u00fclerInnen"
+    },
+    {
+      "title": "Senior Data Engineer & Infrastructure Coordinator",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior HR Business Partner (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior Software Engineer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Service f\u00fcr Investoren",
+      "href": "https://www.erstegroup.com/de/investoren/ir-service",
+      "location": "Service f\u00fcr Investoren"
+    },
+    {
+      "title": "Serviceberater:in Teilzeit Lech (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Social Banking",
+      "href": "https://www.erstegroup.com/de/ueber-uns/social-banking",
+      "location": "Social Banking"
+    },
+    {
+      "title": "Software Engineer #Java #Angular #PL/SQL (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Software Engineer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Software Tester for Lending Solutions (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Solution Manager (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Solution Manager in Customer Life Cycle Management (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Solution Manager with Pega Knowledge (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist (w/m/d) Banking Operations - Produkt- & Konditionenmanagement - befristet auf 24 Monate",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in Gr\u00fcnderCenter",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in IT-Infrastruktur und Systemadministration (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in Wertpapier Support",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "SpezialistIn Bauen & Wohnen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Strategic Business Insights Analyst (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Studierende",
+      "href": "https://www.erstegroup.com/de/karriere/studierende",
+      "location": "Studierende"
+    },
+    {
+      "title": "Studierende und Absolvent:innen",
+      "href": "https://www.erstegroup.com/de/karriere/studierende-absolventinnen",
+      "location": "Studierende und Absolvent:innen"
+    },
+    {
+      "title": "Sustainable Finance",
+      "href": "https://www.erstegroup.com/de/investoren/debt/Sustainable_Finance",
+      "location": "Sustainable Finance"
+    },
+    {
+      "title": "Systembetreuung IT & Kassensysteme (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Teamleitung Infrastruktur & Liegenschaft (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Technical Analyst/Solution Analyst for Enterprise Content Mgmt. & Processes (all humans) #pega",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Technischer Facility Manager (m/w/d) Schwerpunkt Energie",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Tochtergesellschaften",
+      "href": "https://www.erstegroup.com/de/ueber-uns/tochtergesellschaften",
+      "location": "Tochtergesellschaften"
+    },
+    {
+      "title": "Trainee Privatkundenberater:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Trainee Privatkundenbetreuer:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Unsere M\u00e4rkte",
+      "href": "https://www.erstegroup.com/de/ueber-uns/unsere-maerkte",
+      "location": "Unsere M\u00e4rkte"
+    },
+    {
+      "title": "Unternehmenskundenbetreuer:in Large Corporates",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "VertriebsassistentIn",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Vertriebsmitarbeiter:in Teambetreuung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Verwendungszwecken",
+      "href": "https://www.erstegroup.com/de/rechtliches/datenschutz/cookies",
+      "location": "Wenn Sie \u00fcber 16 Jahre sind, klicken Sie auf \u201eIch bin einverstanden\u201c, um alle Verwendungszwecken (inklusive Webanalyse) zuzustimmen, oder auf \"Ablehnen\", um nur mit den technisch notwendigen Verarbeitungen fortzufahren. In den Cookie-Einstellungen k\u00f6nnen Sie ausw\u00e4hlen, wenn Sie bestimmte Cookies annehmen oder ablehnen m\u00f6chten. Ihre Cookie-Einstellu"
+    },
+    {
+      "title": "Wachstum generieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/wachstum",
+      "location": "Wachstum generieren"
+    },
+    {
+      "title": "Welcome Desk Mitarbeiter:in (Teilzeit 23h)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "WhatsApp",
+      "href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.erstegroup.com%2Fde%2Fkarriere%2Fstellenangebote%23%2Fjoblist%2Flocation%2FWien%2Fdiscipline_items%2FLegal%2520%252F%2520Compliance%2520%252F%2520Audit",
+      "location": ""
+    },
+    {
+      "title": "Whistleblowing",
+      "href": "https://www.erstegroup.com/de/ueber-uns/whistleblowing",
+      "location": "Whistleblowing"
+    },
+    {
+      "title": "WP-Spezialist:in Kommerz- u. Gesch\u00e4ftskunden (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "XING",
+      "href": "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.erstegroup.com%2Fde%2Fkarriere%2Fstellenangebote%23%2Fjoblist%2Flocation%2FWien%2Fdiscipline_items%2FLegal%2520%252F%2520Compliance%2520%252F%2520Audit",
+      "location": ""
+    },
+    {
+      "title": "Zum Ferialpraktikum",
+      "href": "https://www.erstegroup.com/de/karriere/schuelerinnen",
+      "location": "Zum Ferialpraktikum"
+    },
+    {
+      "title": "\u00dcber uns",
+      "href": "https://www.erstegroup.com/de/ueber-uns",
+      "location": "\u00dcber uns"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/financial-institutions",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/firmenkunden",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/investoren",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/karriere",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/news-media",
+      "location": "\u00dcbersicht"
+    }
+  ],
+  "page_text_hash": "fd6c64eee46232ddcdf2711c64b923ee75e2db13646a783620c464a26fd205d3",
+  "job_count": 255,
+  "job_candidates": [
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "(Para-)legal (all genders) Group Corporate Governance Office",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/para-legal-all-genders-group-corporate-governance-office/32011",
+      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance Erste Group Bank AG Wien 23.03.2026 (Para-)legal (all genders) Group Corporate Governance Office Erste Gro"
+    },
+    {
+      "title": "+43 (0)5 0100 - 10100",
+      "href": "tel:+435010010100",
+      "location": "+43 (0)5 0100 - 10100"
+    },
+    {
+      "title": ", \u00d6ffnet in neuem Fenster",
+      "href": "https://www.whatchado.com/de/organizations/erste-bank",
+      "location": ", \u00d6ffnet in neuem Fenster"
+    },
+    {
+      "title": ", \u00d6ffnet in neuem Fenster",
+      "href": "https://www.xing.com/companies/erstebank",
+      "location": ", \u00d6ffnet in neuem Fenster"
+    },
+    {
+      "title": ", \u00d6ffnet in neuem Fenster",
+      "href": "https://www.youtube.com/channel/UCIE-NuqjXjz9DHulnzA8ONg",
+      "location": ", \u00d6ffnet in neuem Fenster"
+    },
+    {
+      "title": "Abonnieren",
+      "href": "https://www.erstegroup.com/de/news-media/medieninformationen/anmeldung-medieninformation",
+      "location": "Erhalten Sie per E-Mail die neuesten Erste Group Informationen Abonnieren"
+    },
+    {
+      "title": "AbsolventInnen",
+      "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
+      "location": "AbsolventInnen"
+    },
+    {
+      "title": "Account Manager - Projektfinanzierungen Wohnbau (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Account Manager:in im Au\u00dfendienst Bankenvertrieb Leasing (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Additional Tier 1 Notes",
+      "href": "https://www.erstegroup.com/de/investoren/debt/at1",
+      "location": "Additional Tier 1 Notes"
+    },
+    {
+      "title": "AI Software Developer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Aktieninformation",
+      "href": "https://www.erstegroup.com/de/investoren/aktie",
+      "location": "AktieninformationChart Erste Group-AktieAktion\u00e4rsstrukturAnalysten und Sch\u00e4tzungenKennzahlen und DividendeDirectors Dealings"
+    },
+    {
+      "title": "Aktion\u00e4rsstruktur",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/aktionaersstruktur",
+      "location": "Aktion\u00e4rsstruktur"
+    },
+    {
+      "title": "Allgemeine Gesch\u00e4ftsbedingungen",
+      "href": "https://www.erstegroup.com/de/legal-information/geschaeftsbedingungen",
+      "location": "Allgemeine Gesch\u00e4ftsbedingungen"
+    },
+    {
+      "title": "Analysten und Sch\u00e4tzungen",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungen",
+      "location": "Analysten und Sch\u00e4tzungen"
+    },
+    {
+      "title": "Assistenz Gro\u00dfkund:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Assistenz im Private Banking (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Audit Specialist Risk Models (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Auslandsm\u00e4rkte erschlie\u00dfen",
+      "href": "https://www.erstegroup.com/de/firmenkunden/auslandsmaerkte-erschliessen",
+      "location": "Auslandsm\u00e4rkte erschlie\u00dfen"
+    },
+    {
+      "title": "Auszeichnungen",
+      "href": "https://www.erstegroup.com/de/ueber-uns/auszeichnungen",
+      "location": "Auszeichnungen"
+    },
+    {
+      "title": "Bank Client Relationship Manager (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Barrierefreiheits-Erkl\u00e4rung",
+      "href": "https://www.erstegroup.com/de/legal-information/barrierefreiheitserklaerung",
+      "location": "Barrierefreiheits-Erkl\u00e4rung"
+    },
+    {
+      "title": "Basisinformationsbl\u00e4tter (KIDs)",
+      "href": "https://www.erstegroup.com/de/ueber-uns/erste-group-emissionen/basisinformationsblaetter",
+      "location": "Basisinformationsbl\u00e4tter (KIDs)"
+    },
+    {
+      "title": "Benefits",
+      "href": "https://www.erstegroup.com/de/karriere/benefits",
+      "location": "Benefits"
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung Klagenfurt und Lienz",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung N\u00d6 Mitte, Wein- und Waldviertel",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung O\u00d6",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung Salzburg",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berater:in Wohnfinanzierung Vorarlberg",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Bereichsleiter Stellvertretung Immobilienmanagement (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Berichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte",
+      "location": "BerichteFinanzberichteRegulatorische BerichteNichtfinanzielle BerichteOnline Gesch\u00e4ftsberichte"
+    },
+    {
+      "title": "Berufserfahrene",
+      "href": "https://www.erstegroup.com/de/karriere/berufserfahrene",
+      "location": "Berufserfahrene"
+    },
+    {
+      "title": "Berufspraktische Tage - Schnupper mit uns in die Welt der Banken",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Kommerzkund:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Privat- und Firmenkunden Lech am Arlberg (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Privatkunden",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuung Gesch\u00e4ftskunden im Raum M\u00f6lltal - all genders",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Bond-Investoren",
+      "href": "https://www.erstegroup.com/de/investoren/debt",
+      "location": "Bond-InvestorenErste Group EmissionenAdditional Tier 1 NotesRefinanzierung und ProdukteSustainable FinanceRatingsPr\u00e4sentationenDownload-Center"
+    },
+    {
+      "title": "Cash Management Financial Institutions",
+      "href": "https://www.erstegroup.com/de/financial-institutions/cash-management-fin-institutions",
+      "location": "Cash Management Financial Institutions"
+    },
+    {
+      "title": "CASH.VIEW",
+      "href": "https://cpe.erste-group.com/itsweb/web2/",
+      "location": "CASH.VIEW"
+    },
+    {
+      "title": "Chart Erste Group-Aktie",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/aktie-chart",
+      "location": "Chart Erste Group-Aktie"
+    },
+    {
+      "title": "Co-Betreuung Firmenkunden",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Communication Evaluation & Insights Expert (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Communications Expert (all genders) - Focus on Capital Markets & Financial Media",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Corporate Risk Manager (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Custody Services",
+      "href": "https://www.erstegroup.com/de/financial-institutions/custody-services",
+      "location": "Custody Services"
+    },
+    {
+      "title": "Customer Referral",
+      "href": "https://www.erstegroup.com/de/financial-institutions/customer-referral",
+      "location": "Customer Referral"
+    },
+    {
+      "title": "Customer Service Agent (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Directors Dealings",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/directorsdealings",
+      "location": "Directors Dealings"
+    },
+    {
+      "title": "Disclaimer",
+      "href": "https://www.erstegroup.com/de/legal-information/disclaimer",
+      "location": "Disclaimer"
+    },
+    {
+      "title": "Diversit\u00e4t",
+      "href": "https://www.erstegroup.com/de/ueber-uns/nachhaltigkeit-esg/diversitaet",
+      "location": "Diversit\u00e4t"
+    },
+    {
+      "title": "Download-Center",
+      "href": "https://www.erstegroup.com/de/investoren/debt/downloads",
+      "location": "Download-Center"
+    },
+    {
+      "title": "Duale Akademie @ Erste Bank - ab Oktober 2026 (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Duale Akademie f\u00fcr AHS-Absolvent:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "E-Mail",
+      "href": "mailto:?subject=Stellenangebot&body=Hallo%2C%0D%0A%0D%0Adas%20ist%20ein%20interessantes%20Stellenangebot%3A%0D%0Ahttps%3A%2F%2Fwww.erstegroup.com%2Fde%2Fkarriere%2Fstellenangebote%23%2Fjoblist%2Flocation%2FWien%2Fdiscipline_items%2FLegal%2520%252F%2520Compliance%2520%252F%2520Audit",
+      "location": ""
+    },
+    {
+      "title": "Eink\u00e4ufer Immobilien und Technik (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Einlagensicherung",
+      "href": "https://www.erstegroup.com/de/legal-information/einlagensicherung",
+      "location": "Einlagensicherung"
+    },
+    {
+      "title": "English",
+      "href": "https://www.erstegroup.com/en/career/positions-offered",
+      "location": "English Suche"
+    },
+    {
+      "title": "Erste Campus",
+      "href": "https://www.erstegroup.com/de/ueber-uns/erste-campus",
+      "location": "Erste Campus"
+    },
+    {
+      "title": "Erste Group Emissionen",
+      "href": "https://www.erstegroup.com/de/investments",
+      "location": "Erste Group Emissionen"
+    },
+    {
+      "title": "Erste Group im \u00dcberblick",
+      "href": "https://www.erstegroup.com/de/news-media/erste-group-ueberblick",
+      "location": "Erste Group im \u00dcberblick"
+    },
+    {
+      "title": "ErsteConfirming",
+      "href": "https://confirming.erstegroup.com/iMX/login.jsp",
+      "location": "ErsteConfirming"
+    },
+    {
+      "title": "Events",
+      "href": "https://www.erstegroup.com/de/investoren/events",
+      "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
+    },
+    {
+      "title": "Expert:in im Digital Corporate Sales & Vertriebssteuerung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Facility Manager:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/fh-uni-praktikum-im-corporate-governance-office-w-m-d-work-study-governance-compliance/31878",
+      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance Erste Group Bank AG Wien 23.03.2026 (Para-)legal (all genders) Group Corporate Governance Office Erste Gro"
+    },
+    {
+      "title": "Filialen",
+      "href": "https://www.erstegroup.com/de/ueber-uns/filialen",
+      "location": "Filialen"
+    },
+    {
+      "title": "Finanzberichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
+      "location": "Finanzberichte"
+    },
+    {
+      "title": "Finanzierungsexpert:in (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Finanzinstitute",
+      "href": "https://www.erstegroup.com/de/financial-institutions",
+      "location": "Finanzinstitute"
+    },
+    {
+      "title": "Finanzkalender",
+      "href": "https://www.erstegroup.com/de/investoren/events/finanzkalender",
+      "location": "Finanzkalender"
+    },
+    {
+      "title": "Finanzkalender",
+      "href": "https://www.erstegroup.com/de/news-media/finanz-kalender",
+      "location": "Finanzkalender"
+    },
+    {
+      "title": "Finanzkennzahlen YE 2025",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/tab/IR_Tab_YE25_EG_fin_data_sheets.xlsx",
+      "location": "Finanzkennzahlen YE 2025"
+    },
+    {
+      "title": "Firmenkunden",
+      "href": "https://www.erstegroup.com/de/firmenkunden",
+      "location": "Firmenkunden"
+    },
+    {
+      "title": "Firmenkundenbetreuer:in im Filialbereich (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Firmenkundenbetreuer:in inkl. Immobilien- und Projektfinanzierungen Corporate Banking Wien",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Fotos",
+      "href": "https://www.erstegroup.com/de/news-media/fotos",
+      "location": "Fotos"
+    },
+    {
+      "title": "Gesch\u00e4ftsbericht 2025",
+      "href": "https://www.erstegroup.com/de/investoren/geschaeftsbericht2025",
+      "location": "Gesch\u00e4ftsbericht 2025"
+    },
+    {
+      "title": "Gesetzliche Bekanntmachungen - Andere",
+      "href": "https://www.erstegroup.com/de/investoren/news/bekanntmachungen_andere",
+      "location": "Gesetzliche Bekanntmachungen - Andere"
+    },
+    {
+      "title": "Gesetzliche Bekanntmachungen - Eigene Aktien",
+      "href": "https://www.erstegroup.com/de/investoren/news/bekanntmachungen_eigene_Aktien",
+      "location": "Gesetzliche Bekanntmachungen - Eigene Aktien"
+    },
+    {
+      "title": "Handelsfinanzierung",
+      "href": "https://www.erstegroup.com/de/financial-institutions/trade-finance",
+      "location": "Handelsfinanzierung"
+    },
+    {
+      "title": "Hauptversammlungen",
+      "href": "https://www.erstegroup.com/de/investoren/events/hauptversammlungen",
+      "location": "Hauptversammlungen"
+    },
+    {
+      "title": "Haustechniker (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Haustechniker:in (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "hier",
+      "href": "https://www.erstegroup.com/de/rechtliches/datenschutz",
+      "location": "Wenn Sie \u00fcber 16 Jahre sind, klicken Sie auf \u201eIch bin einverstanden\u201c, um alle Verwendungszwecken (inklusive Webanalyse) zuzustimmen, oder auf \"Ablehnen\", um nur mit den technisch notwendigen Verarbeitungen fortzufahren. In den Cookie-Einstellungen k\u00f6nnen Sie ausw\u00e4hlen, wenn Sie bestimmte Cookies annehmen oder ablehnen m\u00f6chten. Ihre Cookie-Einstellu"
+    },
+    {
+      "title": "HR Expert:in Learning & Development",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "HR Generalist (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Immobilienverwalter (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Infos \u00fcber Wertpapier\u00addienstleistungen",
+      "href": "https://www.erstegroup.com/de/legal-information/mifid",
+      "location": "Infos \u00fcber Wertpapier\u00addienstleistungen"
+    },
+    {
+      "title": "Initiativbewerbung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung - Sparkasse Mittersill",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung - Sparkasse Neunkirchen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung bei der KREMSER BANK",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung bei der Sparkasse Herzogenburg-Neulengbach",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung bei der Sparkasse N\u00d6 Mitte West",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung in der Sparkasse O\u00d6 (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung K\u00e4rntner Sparkasse AG - all genders",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Initiativbewerbung und Quereinsteiger:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Insiderinformationen",
+      "href": "https://www.erstegroup.com/de/investoren/news/mar",
+      "location": "Insiderinformationen"
+    },
+    {
+      "title": "Interne Revision (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Investieren in Erste Group",
+      "href": "https://www.erstegroup.com/de/investoren/investieren",
+      "location": "Investieren in Erste Group"
+    },
+    {
+      "title": "Investoren",
+      "href": "https://www.erstegroup.com/de/investoren",
+      "location": "Investoren"
+    },
+    {
+      "title": "Investoreninformation YE 2025",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/de/ir/2026/news_de/IR_News_260226de_YE25.pdf",
+      "location": "Investoreninformation YE 2025"
+    },
+    {
+      "title": "Investoreninformationen",
+      "href": "https://www.erstegroup.com/de/investoren/news/investoreninformation",
+      "location": "Investoreninformationen"
+    },
+    {
+      "title": "IR Team",
+      "href": "https://www.erstegroup.com/de/investoren/ir-contacts",
+      "location": "IR Team"
+    },
+    {
+      "title": "IT Risk Manager (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "IT- und Prozessorganisator:in (m/w/d), Teilzeit",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "jederzeit \u00e4ndern",
+      "href": "https://www.erstegroup.com/de/rechtliches/datenschutz/cookies",
+      "location": "Wenn Sie \u00fcber 16 Jahre sind, klicken Sie auf \u201eIch bin einverstanden\u201c, um alle Verwendungszwecken (inklusive Webanalyse) zuzustimmen, oder auf \"Ablehnen\", um nur mit den technisch notwendigen Verarbeitungen fortzufahren. In den Cookie-Einstellungen k\u00f6nnen Sie ausw\u00e4hlen, wenn Sie bestimmte Cookies annehmen oder ablehnen m\u00f6chten. Ihre Cookie-Einstellu"
+    },
+    {
+      "title": "Jetzt bewerben",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote#jobs",
+      "location": "Jetzt bewerben"
+    },
+    {
+      "title": "Junior Controller:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kennzahlen und Dividende",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/aktie-kennzahlen",
+      "location": "Kennzahlen und Dividende"
+    },
+    {
+      "title": "Kommerzkundenberater:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kommerzkundenbetreuer:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kommerzkundenbetreuer:in (m/w/d) mit Schwerpunkt Immobilienfinanzierung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kommerzkundenbetreuung Kufstein und W\u00f6rgl",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Koordinator:in Bauabwicklung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kredit- und Kapitalm\u00e4rkte nutzen",
+      "href": "https://www.erstegroup.com/de/firmenkunden/kapitalmaerkte-nutzen",
+      "location": "Kredit- und Kapitalm\u00e4rkte nutzen"
+    },
+    {
+      "title": "Kreditrisikomanager:in (Kommerzkundensegment)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kreditrisikomanager:in (Privatkundensegment)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenberater (m/w/d Rohrbach-Berg Teilzeit bis Vollzeit)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenberater:in Private Banking (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "KundenberaterIn",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenberatung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuer:in Corporate (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuer:in Immobilien (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuer:in Projektfinanzierungen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Bezirk Liezen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Filiale Oberandritz (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Gesch\u00e4ftskunden (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Premium",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Raum Graz (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Top",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "KYC Dokumente",
+      "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
+      "location": "KYC Dokumente"
+    },
+    {
+      "title": "Lehre @ Erste Bank - ab September 2026 (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Lehrling Bankkaufmann /-frau in unseren Filialen (m/w/d) 2026",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leiter:in Private Banking (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Immobilien \"Planung, Technik & Sicherheit\" (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Personal (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Wohnbau- & Privatfinanzierungen (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Letzte Ver\u00f6ffentlichungen",
+      "href": "https://www.erstegroup.com/de/investoren/news",
+      "location": "Letzte Ver\u00f6ffentlichungenInvestoreninformation YE 2025Pr\u00e4sentation YE 2025Finanzkennzahlen YE 2025"
+    },
+    {
+      "title": "Lieferketten sicher finanzieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/lieferketten-sicher-finanzieren",
+      "location": "Lieferketten sicher finanzieren"
+    },
+    {
+      "title": "Liquidit\u00e4t optimieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/liquiditaet",
+      "location": "Liquidit\u00e4t optimieren"
+    },
+    {
+      "title": "Managing Director (all genders) People Services",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Marketing (Teilzeit bis Vollzeit in Rohrbach-Berg)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Markets Compliance Officer (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Markets Compliance Officer (all genders)",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/markets-compliance-officer-all-genders/32316",
+      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit FH-/Uni-Praktikum im Corporate Governance Office (w/m/d) #work&study #governance #compliance Erste Group Bank AG Wien 23.03.2026 (Para-)legal (all genders) Group Corporate Governance Office Erste Gro"
+    },
+    {
+      "title": "Markets Execution",
+      "href": "https://www.erstegroup.com/de/financial-institutions/group-markets-execution",
+      "location": "Markets Execution"
+    },
+    {
+      "title": "Microsoft Dynamics 365 CRM Senior Developer & Support Specialist (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter (w/m/d) Vertrieb",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Compliance & Recht (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Customer Experience & Qualit\u00e4tsmanagement (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in f\u00fcr die Rechtsabteilung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Kreditrestrukturierung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Kundenservice Graz - Vollzeit/Teilzeit m\u00f6glich",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Ombudsstelle (19 Std./Woche)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in Treasury-Eigengesch\u00e4ft & Asset Liability Management (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Model Landscape Expert for Credit Risk (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "MS Infrastructure Specialist (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "MS Infrastruktur-/Server-Engineer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Nachhaltigkeit \u2013 ESG",
+      "href": "https://www.erstegroup.com/de/ueber-uns/nachhaltigkeit-esg",
+      "location": "Nachhaltigkeit \u2013 ESG"
+    },
+    {
+      "title": "Navigation \u00fcberspringen",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote#content",
+      "location": "Navigation \u00fcberspringen"
+    },
+    {
+      "title": "News",
+      "href": "https://www.erstegroup.com/de/investoren/news",
+      "location": "NewsInvestoreninformationenInsiderinformationenGesetzliche Bekanntmachungen - Eigene AktienGesetzliche Bekanntmachungen - Andere"
+    },
+    {
+      "title": "News & Media",
+      "href": "https://www.erstegroup.com/de/news-media",
+      "location": "News & Media"
+    },
+    {
+      "title": "Nichtfinanzielle Berichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/nichtfinanzielle_berichte",
+      "location": "Nichtfinanzielle Berichte"
+    },
+    {
+      "title": "Office Management / Vertriebsbackoffice",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Ombudsmann/Beschwerden",
+      "href": "https://www.erstegroup.com/de/ueber-uns/ombudsstelle-beschwerden",
+      "location": "Ombudsmann/Beschwerden"
+    },
+    {
+      "title": "Online Gesch\u00e4ftsberichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/online",
+      "location": "Online Gesch\u00e4ftsberichte"
+    },
+    {
+      "title": "Operations Manager Factoring (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "operatives Risikomanagement",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Payment Process Owner (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Pega System Architect (SA)/(SSA) (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Personal Assistant to Head of Group Communications and Corporate Affairs (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Position",
+      "href": "",
+      "location": "Dienstort"
+    },
+    {
+      "title": "Praktikant:in Marketing Herbst 26",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Presseaussendungen",
+      "href": "https://www.erstegroup.com/de/news-media/presseaussendungen",
+      "location": "Presseaussendungen"
+    },
+    {
+      "title": "Private Banking",
+      "href": "https://www.ersteprivatebanking.com",
+      "location": "Private Banking"
+    },
+    {
+      "title": "Private Banking",
+      "href": "https://www.ersteprivatebanking.com/de/home",
+      "location": "Private Banking"
+    },
+    {
+      "title": "Private Banking & Wealth Management - Berater:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkunden",
+      "href": "https://www.erstegroup.com/de/privatkunden",
+      "location": "Privatkunden"
+    },
+    {
+      "title": "Privatkundenberater:in f\u00fcr die Filiale Hard",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in (m/w/d) in einer Filiale der Region S\u00fcd",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in f\u00fcr die Filiale in Frauenkirchen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Privatkundenbetreuer:in in der Filiale Lustenau (100 %)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Projektleiter (w/m/d) Wohnbau",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Projektleitung Hochbau (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Projektmanager (w/m/d) Geb\u00e4udetechnik / HKLS / Elektro",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Pr\u00e4sentation YE 2025",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260226_YE25.pdf",
+      "location": "Pr\u00e4sentation YE 2025"
+    },
+    {
+      "title": "Pr\u00e4sentationen",
+      "href": "https://www.erstegroup.com/de/investoren/debt/praesentationen",
+      "location": "Pr\u00e4sentationen"
+    },
+    {
+      "title": "Pr\u00e4sentationen, Webcasts, etc.",
+      "href": "https://www.erstegroup.com/de/investoren/events/irevents",
+      "location": "Pr\u00e4sentationen, Webcasts, etc."
+    },
+    {
+      "title": "Quant Risk Specialist (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Ratings",
+      "href": "https://www.erstegroup.com/de/investoren/debt/ratings",
+      "location": "Ratings"
+    },
+    {
+      "title": "Rechte bei europaweiten Zahlungen",
+      "href": "https://commission.europa.eu/system/files/2019-09/leaflet-your-rights-payments-eu_en.pdf",
+      "location": "Rechte bei europaweiten Zahlungen"
+    },
+    {
+      "title": "Referenzwerte-Vollzugsgesetz",
+      "href": "https://www.erstegroup.com/de/legal-information/referenzwerte-vollzugsgesetz",
+      "location": "Referenzwerte-Vollzugsgesetz"
+    },
+    {
+      "title": "Refinanzierung und Produkte",
+      "href": "https://www.erstegroup.com/de/investoren/debt",
+      "location": "Refinanzierung und Produkte"
+    },
+    {
+      "title": "Regulatorische Berichte",
+      "href": "https://www.erstegroup.com/de/investoren/berichte/regulatorische_berichte",
+      "location": "Regulatorische Berichte"
+    },
+    {
+      "title": "Research",
+      "href": "https://www.erstegroup.com/de/research",
+      "location": "Research"
+    },
+    {
+      "title": "Risiken minimieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/risiken-minimieren",
+      "location": "Risiken minimieren"
+    },
+    {
+      "title": "Risk Management Underwriter:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Riskmanager Wohnbau (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Sch\u00fclerInnen",
+      "href": "https://www.erstegroup.com/de/karriere/schuelerinnen",
+      "location": "Sch\u00fclerInnen"
+    },
+    {
+      "title": "Senior Data Engineer & Infrastructure Coordinator",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior HR Business Partner (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior Software Engineer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Service f\u00fcr Investoren",
+      "href": "https://www.erstegroup.com/de/investoren/ir-service",
+      "location": "Service f\u00fcr Investoren"
+    },
+    {
+      "title": "Serviceberater:in Teilzeit Lech (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Social Banking",
+      "href": "https://www.erstegroup.com/de/ueber-uns/social-banking",
+      "location": "Social Banking"
+    },
+    {
+      "title": "Software Engineer #Java #Angular #PL/SQL (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Software Engineer (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Software Tester for Lending Solutions (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Solution Manager (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Solution Manager in Customer Life Cycle Management (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Solution Manager with Pega Knowledge (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist (w/m/d) Banking Operations - Produkt- & Konditionenmanagement - befristet auf 24 Monate",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in Gr\u00fcnderCenter",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in IT-Infrastruktur und Systemadministration (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in Wertpapier Support",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "SpezialistIn Bauen & Wohnen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Strategic Business Insights Analyst (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Studierende",
+      "href": "https://www.erstegroup.com/de/karriere/studierende",
+      "location": "Studierende"
+    },
+    {
+      "title": "Studierende und Absolvent:innen",
+      "href": "https://www.erstegroup.com/de/karriere/studierende-absolventinnen",
+      "location": "Studierende und Absolvent:innen"
+    },
+    {
+      "title": "Sustainable Finance",
+      "href": "https://www.erstegroup.com/de/investoren/debt/Sustainable_Finance",
+      "location": "Sustainable Finance"
+    },
+    {
+      "title": "Systembetreuung IT & Kassensysteme (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Teamleitung Infrastruktur & Liegenschaft (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Technical Analyst/Solution Analyst for Enterprise Content Mgmt. & Processes (all humans) #pega",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Technischer Facility Manager (m/w/d) Schwerpunkt Energie",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Tochtergesellschaften",
+      "href": "https://www.erstegroup.com/de/ueber-uns/tochtergesellschaften",
+      "location": "Tochtergesellschaften"
+    },
+    {
+      "title": "Trainee Privatkundenberater:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Trainee Privatkundenbetreuer:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Unsere M\u00e4rkte",
+      "href": "https://www.erstegroup.com/de/ueber-uns/unsere-maerkte",
+      "location": "Unsere M\u00e4rkte"
+    },
+    {
+      "title": "Unternehmenskundenbetreuer:in Large Corporates",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "VertriebsassistentIn",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Vertriebsmitarbeiter:in Teambetreuung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Verwendungszwecken",
+      "href": "https://www.erstegroup.com/de/rechtliches/datenschutz/cookies",
+      "location": "Wenn Sie \u00fcber 16 Jahre sind, klicken Sie auf \u201eIch bin einverstanden\u201c, um alle Verwendungszwecken (inklusive Webanalyse) zuzustimmen, oder auf \"Ablehnen\", um nur mit den technisch notwendigen Verarbeitungen fortzufahren. In den Cookie-Einstellungen k\u00f6nnen Sie ausw\u00e4hlen, wenn Sie bestimmte Cookies annehmen oder ablehnen m\u00f6chten. Ihre Cookie-Einstellu"
+    },
+    {
+      "title": "Wachstum generieren",
+      "href": "https://www.erstegroup.com/de/firmenkunden/wachstum",
+      "location": "Wachstum generieren"
+    },
+    {
+      "title": "Welcome Desk Mitarbeiter:in (Teilzeit 23h)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "WhatsApp",
+      "href": "https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.erstegroup.com%2Fde%2Fkarriere%2Fstellenangebote%23%2Fjoblist%2Flocation%2FWien%2Fdiscipline_items%2FLegal%2520%252F%2520Compliance%2520%252F%2520Audit",
+      "location": ""
+    },
+    {
+      "title": "Whistleblowing",
+      "href": "https://www.erstegroup.com/de/ueber-uns/whistleblowing",
+      "location": "Whistleblowing"
+    },
+    {
+      "title": "WP-Spezialist:in Kommerz- u. Gesch\u00e4ftskunden (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "XING",
+      "href": "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Fwww.erstegroup.com%2Fde%2Fkarriere%2Fstellenangebote%23%2Fjoblist%2Flocation%2FWien%2Fdiscipline_items%2FLegal%2520%252F%2520Compliance%2520%252F%2520Audit",
+      "location": ""
+    },
+    {
+      "title": "Zum Ferialpraktikum",
+      "href": "https://www.erstegroup.com/de/karriere/schuelerinnen",
+      "location": "Zum Ferialpraktikum"
+    },
+    {
+      "title": "\u00dcber uns",
+      "href": "https://www.erstegroup.com/de/ueber-uns",
+      "location": "\u00dcber uns"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/financial-institutions",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/firmenkunden",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/investoren",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/karriere",
+      "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht",
+      "href": "https://www.erstegroup.com/de/news-media",
+      "location": "\u00dcbersicht"
+    }
+  ]
 }

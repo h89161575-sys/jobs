@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-30T16:07:31+00:00",
+  "updated_at": "2026-03-30T22:32:36+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -377,6 +377,11 @@
       "title": "Firmenkunden",
       "href": "https://www.erstegroup.com/de/firmenkunden",
       "location": "Firmenkunden"
+    },
+    {
+      "title": "Firmenkundenbetreuer:in",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Firmenkundenbetreuer:in im Filialbereich (w/m/d)",
@@ -1250,7 +1255,7 @@
     }
   ],
   "page_text_hash": "8ec5acc57c99a7803971dcd9694cf0afc8a2d1325974e7213fc0cfeb5ffbb3ca",
-  "job_count": 249,
+  "job_count": 250,
   "job_candidates": [
     {
       "title": "(Para-)legal (all genders) Group Corporate Governance Office",
@@ -1626,6 +1631,11 @@
       "title": "Firmenkunden",
       "href": "https://www.erstegroup.com/de/firmenkunden",
       "location": "Firmenkunden"
+    },
+    {
+      "title": "Firmenkundenbetreuer:in",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Firmenkundenbetreuer:in im Filialbereich (w/m/d)",

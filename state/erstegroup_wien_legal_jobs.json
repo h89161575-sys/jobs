@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-31T14:07:48+00:00",
+  "updated_at": "2026-03-31T22:31:54+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -1184,6 +1184,11 @@
       "location": ""
     },
     {
+      "title": "Traineeprogramm #NextGen",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Traineeprogramm Unternehmenskundenberatung (w/m/d) - Start September 2026",
       "href": "",
       "location": ""
@@ -1275,7 +1280,7 @@
     }
   ],
   "page_text_hash": "de50959edf9b018f150f3083f131ddeb11996a1ea2e4f442b16f195f716a99ca",
-  "job_count": 254,
+  "job_count": 255,
   "job_candidates": [
     {
       "title": "(Para-)legal (all genders) Group Corporate Governance Office",
@@ -2454,6 +2459,11 @@
     },
     {
       "title": "Trainee Privatkundenbetreuer:in",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Traineeprogramm #NextGen",
       "href": "",
       "location": ""
     },

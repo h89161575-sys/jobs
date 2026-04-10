@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-10T13:54:51+00:00",
+  "updated_at": "2026-04-10T15:50:08+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -1044,6 +1044,11 @@
       "location": ""
     },
     {
+      "title": "Senior Business Analyst (all genders) Credit Risk Data",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Senior Data Engineer & Infrastructure Coordinator",
       "href": "",
       "location": ""
@@ -1245,7 +1250,7 @@
     }
   ],
   "page_text_hash": "5693793ca73fe4af8cccb2efc828eef4cea49a832fa6a44a659659f66520fac3",
-  "job_count": 248,
+  "job_count": 249,
   "job_candidates": [
     {
       "title": "(Para-)legal (all genders) Group Corporate Governance Office",
@@ -2284,6 +2289,11 @@
     },
     {
       "title": "Senior (Retail) Credit Risk Analyst (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior Business Analyst (all genders) Credit Risk Data",
       "href": "",
       "location": ""
     },

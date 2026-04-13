@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-13T12:02:39+00:00",
+  "updated_at": "2026-04-13T13:19:50+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -359,6 +359,11 @@
       "location": "Filialen"
     },
     {
+      "title": "Filialleitung Oberneukirchen",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -1069,6 +1074,11 @@
       "location": "Service f\u00fcr Investoren"
     },
     {
+      "title": "Serviceberater (m/w/d Reichenthal)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Serviceberater:in Teilzeit Lech (m/w/d)",
       "href": "",
       "location": ""
@@ -1240,7 +1250,7 @@
     }
   ],
   "page_text_hash": "80a2aa138de0b9fda83c6709edad7e506aa38d5f9308405b49ecc4531af2b762",
-  "job_count": 247,
+  "job_count": 249,
   "job_candidates": [
     {
       "title": "(Para-)legal (all genders) Group Corporate Governance Office",
@@ -1598,6 +1608,11 @@
       "location": "Filialen"
     },
     {
+      "title": "Filialleitung Oberneukirchen",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -2306,6 +2321,11 @@
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
+    },
+    {
+      "title": "Serviceberater (m/w/d Reichenthal)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Serviceberater:in Teilzeit Lech (m/w/d)",

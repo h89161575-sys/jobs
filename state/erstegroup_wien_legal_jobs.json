@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-04-14T11:36:45+00:00",
+  "updated_at": "2026-04-14T13:19:13+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
+    {
+      "title": "(FH-/Uni-)Praktikum im Gr\u00fcndercenter & F\u00f6rderservice (w/m/d)",
+      "href": "",
+      "location": ""
+    },
     {
       "title": "(Senior) Cobol Software Developer for Security Solutions (all humans)",
       "href": "",
@@ -660,11 +665,6 @@
     },
     {
       "title": "Kundenbetreuer:in Immobilien (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Kundenbetreuer:in Projektfinanzierungen (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -1268,6 +1268,11 @@
   "job_count": 252,
   "job_candidates": [
     {
+      "title": "(FH-/Uni-)Praktikum im Gr\u00fcndercenter & F\u00f6rderservice (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "(Senior) Cobol Software Developer for Security Solutions (all humans)",
       "href": "",
       "location": ""
@@ -1924,11 +1929,6 @@
     },
     {
       "title": "Kundenbetreuer:in Immobilien (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Kundenbetreuer:in Projektfinanzierungen (m/w/d)",
       "href": "",
       "location": ""
     },

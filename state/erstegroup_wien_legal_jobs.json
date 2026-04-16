@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T22:08:56+00:00",
+  "updated_at": "2026-04-16T09:39:25+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -654,6 +654,11 @@
       "location": ""
     },
     {
+      "title": "Kundenberatung mit Immobilienfokus",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Kundenbetreuer:in Immobilien (all genders)",
       "href": "",
       "location": ""
@@ -1245,7 +1250,7 @@
     }
   ],
   "page_text_hash": "b977da3e2302cc1f390de603669580bf8758344a6cd928c3e79f7837f7e02377",
-  "job_count": 248,
+  "job_count": 249,
   "job_candidates": [
     {
       "title": "(FH-/Uni-)Praktikum im Gr\u00fcndercenter & F\u00f6rderservice (w/m/d)",
@@ -1894,6 +1899,11 @@
     },
     {
       "title": "Kundenberatung",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenberatung mit Immobilienfokus",
       "href": "",
       "location": ""
     },

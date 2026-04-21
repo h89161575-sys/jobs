@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-21T09:58:18+00:00",
+  "updated_at": "2026-04-21T12:13:06+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -62,6 +62,11 @@
       "title": "Additional Tier 1 Notes",
       "href": "https://www.erstegroup.com/de/investoren/debt/at1",
       "location": "Additional Tier 1 Notes"
+    },
+    {
+      "title": "AkquisitionSantander Bank Polska",
+      "href": "https://www.erstegroup.com/de/investoren/investieren#spl",
+      "location": "AkquisitionSantander Bank Polska"
     },
     {
       "title": "Aktieninformation",
@@ -576,7 +581,7 @@
     {
       "title": "Investieren in Erste Group",
       "href": "https://www.erstegroup.com/de/investoren/investieren",
-      "location": "Investieren in Erste Group"
+      "location": "Investieren in Erste GroupAkquisitionSantander Bank Polska"
     },
     {
       "title": "Investoren",
@@ -790,6 +795,11 @@
     },
     {
       "title": "Mitarbeiter:in Geb\u00e4ude und Technik (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in im Backoffice (W/M/D)",
       "href": "",
       "location": ""
     },
@@ -1280,7 +1290,7 @@
     }
   ],
   "page_text_hash": "b977da3e2302cc1f390de603669580bf8758344a6cd928c3e79f7837f7e02377",
-  "job_count": 255,
+  "job_count": 257,
   "job_candidates": [
     {
       "title": "(FH-/Uni-)Praktikum im Gr\u00fcndercenter & F\u00f6rderservice (w/m/d)",
@@ -1341,6 +1351,11 @@
       "title": "Additional Tier 1 Notes",
       "href": "https://www.erstegroup.com/de/investoren/debt/at1",
       "location": "Additional Tier 1 Notes"
+    },
+    {
+      "title": "AkquisitionSantander Bank Polska",
+      "href": "https://www.erstegroup.com/de/investoren/investieren#spl",
+      "location": "AkquisitionSantander Bank Polska"
     },
     {
       "title": "Aktieninformation",
@@ -1855,7 +1870,7 @@
     {
       "title": "Investieren in Erste Group",
       "href": "https://www.erstegroup.com/de/investoren/investieren",
-      "location": "Investieren in Erste Group"
+      "location": "Investieren in Erste GroupAkquisitionSantander Bank Polska"
     },
     {
       "title": "Investoren",
@@ -2069,6 +2084,11 @@
     },
     {
       "title": "Mitarbeiter:in Geb\u00e4ude und Technik (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in im Backoffice (W/M/D)",
       "href": "",
       "location": ""
     },

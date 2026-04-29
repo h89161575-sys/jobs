@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-04-29T11:59:08+00:00",
+  "updated_at": "2026-04-29T14:11:00+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
+    {
+      "title": "(FH-/Uni-) Praktikum Unternehmensfinanzierung (all genders)",
+      "href": "",
+      "location": ""
+    },
     {
       "title": "(FH-/Uni-)Praktikum im Gr\u00fcndercenter & F\u00f6rderservice (w/m/d)",
       "href": "",
@@ -1210,6 +1215,11 @@
     },
     {
       "title": "Vertriebsmitarbeiter:in Jenbach (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Vertriebsmitarbeiter:in Schwaz-Weer (all genders)",
       "href": "",
       "location": ""
     },
@@ -1280,8 +1290,13 @@
     }
   ],
   "page_text_hash": "c26e15d387a770dc3c73fb3504a30e305e69233a66b899e0cd21c8936d03cc76",
-  "job_count": 255,
+  "job_count": 257,
   "job_candidates": [
+    {
+      "title": "(FH-/Uni-) Praktikum Unternehmensfinanzierung (all genders)",
+      "href": "",
+      "location": ""
+    },
     {
       "title": "(FH-/Uni-)Praktikum im Gr\u00fcndercenter & F\u00f6rderservice (w/m/d)",
       "href": "",
@@ -2489,6 +2504,11 @@
     },
     {
       "title": "Vertriebsmitarbeiter:in Jenbach (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Vertriebsmitarbeiter:in Schwaz-Weer (all genders)",
       "href": "",
       "location": ""
     },

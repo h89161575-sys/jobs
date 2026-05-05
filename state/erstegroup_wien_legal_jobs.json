@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-05T11:20:44+00:00",
+  "updated_at": "2026-05-05T12:46:44+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -585,6 +585,11 @@
     },
     {
       "title": "KI-Spezialist (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Koch / K\u00f6chin (Chef de Partie) - all humans",
       "href": "",
       "location": ""
     },
@@ -1245,7 +1250,7 @@
     }
   ],
   "page_text_hash": "7228e060bf1ebe7ff6e7f50d6c567ae6e18dc6b25d480b7ecb2eaa2a38d97fde",
-  "job_count": 248,
+  "job_count": 249,
   "job_candidates": [
     {
       "title": "(FH-/Uni) Praktikum Unternehmensfinanzierung (all genders)",
@@ -1829,6 +1834,11 @@
     },
     {
       "title": "KI-Spezialist (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Koch / K\u00f6chin (Chef de Partie) - all humans",
       "href": "",
       "location": ""
     },

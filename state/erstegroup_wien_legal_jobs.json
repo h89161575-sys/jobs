@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T10:32:40+00:00",
+  "updated_at": "2026-05-06T12:26:24+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -239,11 +239,6 @@
       "location": ""
     },
     {
-      "title": "Corporate Risk Manager (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Custody Services",
       "href": "https://www.erstegroup.com/de/financial-institutions/custody-services",
       "location": "Custody Services"
@@ -260,6 +255,11 @@
     },
     {
       "title": "Customer Service Agent - Cards (w/m/d) - Vollzeit/Teilzeit m\u00f6glich",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Data Engineer for Databricks Platform (all humans)",
       "href": "",
       "location": ""
     },
@@ -345,11 +345,6 @@
     },
     {
       "title": "Expert:in Digitale Kommerzprozesse & Vertriebssteuerung (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Expert:in im Digital Corporate Sales & Vertriebssteuerung (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -1255,7 +1250,7 @@
     }
   ],
   "page_text_hash": "7228e060bf1ebe7ff6e7f50d6c567ae6e18dc6b25d480b7ecb2eaa2a38d97fde",
-  "job_count": 250,
+  "job_count": 249,
   "job_candidates": [
     {
       "title": "(FH-/Uni) Praktikum Unternehmensfinanzierung (all genders)",
@@ -1493,11 +1488,6 @@
       "location": ""
     },
     {
-      "title": "Corporate Risk Manager (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Custody Services",
       "href": "https://www.erstegroup.com/de/financial-institutions/custody-services",
       "location": "Custody Services"
@@ -1514,6 +1504,11 @@
     },
     {
       "title": "Customer Service Agent - Cards (w/m/d) - Vollzeit/Teilzeit m\u00f6glich",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Data Engineer for Databricks Platform (all humans)",
       "href": "",
       "location": ""
     },
@@ -1599,11 +1594,6 @@
     },
     {
       "title": "Expert:in Digitale Kommerzprozesse & Vertriebssteuerung (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Expert:in im Digital Corporate Sales & Vertriebssteuerung (m/w/d)",
       "href": "",
       "location": ""
     },

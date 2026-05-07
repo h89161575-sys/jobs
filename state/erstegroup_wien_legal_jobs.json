@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-07T05:59:10+00:00",
+  "updated_at": "2026-05-07T08:46:02+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -669,6 +669,11 @@
       "location": ""
     },
     {
+      "title": "Kundenbetreuung Raum Graz (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "KYC Dokumente",
       "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
       "location": "KYC Dokumente"
@@ -732,6 +737,11 @@
       "title": "Markets Execution",
       "href": "https://www.erstegroup.com/de/financial-institutions/group-markets-execution",
       "location": "Markets Execution"
+    },
+    {
+      "title": "Mitarbeiter (w/m/d) Contract Management",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Mitarbeiter (w/m/d) Vertrieb",
@@ -1044,11 +1054,6 @@
       "location": ""
     },
     {
-      "title": "Senior HR Business Partner (w/m/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
@@ -1250,7 +1255,7 @@
     }
   ],
   "page_text_hash": "7228e060bf1ebe7ff6e7f50d6c567ae6e18dc6b25d480b7ecb2eaa2a38d97fde",
-  "job_count": 249,
+  "job_count": 250,
   "job_candidates": [
     {
       "title": "(FH-/Uni) Praktikum Unternehmensfinanzierung (all genders)",
@@ -1918,6 +1923,11 @@
       "location": ""
     },
     {
+      "title": "Kundenbetreuung Raum Graz (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "KYC Dokumente",
       "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
       "location": "KYC Dokumente"
@@ -1981,6 +1991,11 @@
       "title": "Markets Execution",
       "href": "https://www.erstegroup.com/de/financial-institutions/group-markets-execution",
       "location": "Markets Execution"
+    },
+    {
+      "title": "Mitarbeiter (w/m/d) Contract Management",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Mitarbeiter (w/m/d) Vertrieb",
@@ -2289,11 +2304,6 @@
     },
     {
       "title": "Senior Fachexpert:in MiFID II, WAG & Beratungsprozesse",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Senior HR Business Partner (w/m/d)",
       "href": "",
       "location": ""
     },

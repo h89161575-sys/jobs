@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T16:51:22+00:00",
+  "updated_at": "2026-05-10T22:43:01+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -190,6 +190,16 @@
     },
     {
       "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Kommerzkund:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Privatkunden",
       "href": "",
       "location": ""
     },
@@ -1280,7 +1290,7 @@
     }
   ],
   "page_text_hash": "7228e060bf1ebe7ff6e7f50d6c567ae6e18dc6b25d480b7ecb2eaa2a38d97fde",
-  "job_count": 255,
+  "job_count": 257,
   "job_candidates": [
     {
       "title": "(FH-/Uni) Praktikum Unternehmensfinanzierung (all genders)",
@@ -1469,6 +1479,16 @@
     },
     {
       "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Kommerzkund:innen",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Betreuer:in Privatkunden",
       "href": "",
       "location": ""
     },

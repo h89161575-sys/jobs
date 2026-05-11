@@ -1,15 +1,10 @@
 {
-  "updated_at": "2026-05-10T22:43:01+00:00",
+  "updated_at": "2026-05-11T10:35:45+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
     {
       "title": "(FH-/Uni) Praktikum Unternehmensfinanzierung (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "(FH/Uni) Internship Group People Development & Culture (all genders)",
       "href": "",
       "location": ""
     },
@@ -739,6 +734,11 @@
       "location": "Lieferketten sicher finanzieren"
     },
     {
+      "title": "Liquidity Management & Clearing (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Liquidit\u00e4t optimieren",
       "href": "https://www.erstegroup.com/de/firmenkunden/liquiditaet",
       "location": "Liquidit\u00e4t optimieren"
@@ -1080,11 +1080,6 @@
     },
     {
       "title": "Senior Expert Operational Resilience & Framework Management (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Senior Fachexpert:in MiFID II, WAG & Beratungsprozesse",
       "href": "",
       "location": ""
     },
@@ -1290,15 +1285,10 @@
     }
   ],
   "page_text_hash": "7228e060bf1ebe7ff6e7f50d6c567ae6e18dc6b25d480b7ecb2eaa2a38d97fde",
-  "job_count": 257,
+  "job_count": 256,
   "job_candidates": [
     {
       "title": "(FH-/Uni) Praktikum Unternehmensfinanzierung (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "(FH/Uni) Internship Group People Development & Culture (all genders)",
       "href": "",
       "location": ""
     },
@@ -2028,6 +2018,11 @@
       "location": "Lieferketten sicher finanzieren"
     },
     {
+      "title": "Liquidity Management & Clearing (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Liquidit\u00e4t optimieren",
       "href": "https://www.erstegroup.com/de/firmenkunden/liquiditaet",
       "location": "Liquidit\u00e4t optimieren"
@@ -2369,11 +2364,6 @@
     },
     {
       "title": "Senior Expert Operational Resilience & Framework Management (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Senior Fachexpert:in MiFID II, WAG & Beratungsprozesse",
       "href": "",
       "location": ""
     },

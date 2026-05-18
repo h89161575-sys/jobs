@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T05:47:43+00:00",
+  "updated_at": "2026-05-18T09:55:19+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -265,6 +265,11 @@
     },
     {
       "title": "Data Engineer for Databricks Platform (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Data Privacy Process Automation Enthusiast (all genders)",
       "href": "",
       "location": ""
     },
@@ -1300,7 +1305,7 @@
     }
   ],
   "page_text_hash": "a0ca2cbd620bc64fd8bf9924b8d4d341f0b93f8c36c83b00798858dcb87fe658",
-  "job_count": 259,
+  "job_count": 260,
   "job_candidates": [
     {
       "title": "(FH-/Uni) Praktikum Unternehmensfinanzierung (all genders)",
@@ -1564,6 +1569,11 @@
     },
     {
       "title": "Data Engineer for Databricks Platform (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Data Privacy Process Automation Enthusiast (all genders)",
       "href": "",
       "location": ""
     },

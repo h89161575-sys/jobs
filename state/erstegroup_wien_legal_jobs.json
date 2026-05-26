@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-26T13:51:41+00:00",
+  "updated_at": "2026-05-26T17:24:12+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -1139,6 +1139,11 @@
       "location": "Social Banking"
     },
     {
+      "title": "Specialist (all genders) CtB Rating & Financials",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Spezialist (w/m/d) Banking Operations - Produkt- & Konditionenmanagement",
       "href": "",
       "location": ""
@@ -1320,7 +1325,7 @@
     }
   ],
   "page_text_hash": "58f47c1fa789f185f2f7616fffbd012a55b8d370dc9f2a87ccba158da0475acd",
-  "job_count": 263,
+  "job_count": 264,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d)",
@@ -2456,6 +2461,11 @@
       "title": "Social Banking",
       "href": "https://www.erstegroup.com/de/ueber-uns/social-banking",
       "location": "Social Banking"
+    },
+    {
+      "title": "Specialist (all genders) CtB Rating & Financials",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Spezialist (w/m/d) Banking Operations - Produkt- & Konditionenmanagement",

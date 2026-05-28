@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T14:35:11+00:00",
+  "updated_at": "2026-05-28T18:08:03+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -84,11 +84,6 @@
       "location": "Analysten und Sch\u00e4tzungen"
     },
     {
-      "title": "Assistenz des Vorstandes (m/w/d; 80-100 %)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Assistenz Marketing",
       "href": "",
       "location": ""
@@ -150,11 +145,6 @@
     },
     {
       "title": "Berater:in Wohnfinanzierung Vorarlberg",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Bereichsleiter Stellvertretung Immobilienmanagement (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -709,11 +699,6 @@
       "location": ""
     },
     {
-      "title": "Leitung Vorstandssekretariat (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Leitung Wohnbau- & Privatfinanzierungen (w/m/d)",
       "href": "",
       "location": ""
@@ -997,6 +982,11 @@
       "title": "Product Owner Contracting (w/m/d)",
       "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/product-owner-contracting-w-m-d/33091",
       "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit Product Owner Contracting (w/m/d) Erste Bank Oesterreich Wien 26.05.2026 (FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d) Erste Bank Oesterreich Wien 20.05.2026 Spezialist:in Cred"
+    },
+    {
+      "title": "Product Owner Digital Platforms (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Projektleiter (w/m/d) Wohnbau",
@@ -1285,7 +1275,7 @@
     }
   ],
   "page_text_hash": "f7fb97e0cf28ac975eb66ebe5f4c2bc8122bea6a3f3c4763d28d2dd49a2dbc76",
-  "job_count": 256,
+  "job_count": 254,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d)",
@@ -1368,11 +1358,6 @@
       "location": "Analysten und Sch\u00e4tzungen"
     },
     {
-      "title": "Assistenz des Vorstandes (m/w/d; 80-100 %)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Assistenz Marketing",
       "href": "",
       "location": ""
@@ -1434,11 +1419,6 @@
     },
     {
       "title": "Berater:in Wohnfinanzierung Vorarlberg",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Bereichsleiter Stellvertretung Immobilienmanagement (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -1993,11 +1973,6 @@
       "location": ""
     },
     {
-      "title": "Leitung Vorstandssekretariat (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Leitung Wohnbau- & Privatfinanzierungen (w/m/d)",
       "href": "",
       "location": ""
@@ -2281,6 +2256,11 @@
       "title": "Product Owner Contracting (w/m/d)",
       "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/product-owner-contracting-w-m-d/33091",
       "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit Product Owner Contracting (w/m/d) Erste Bank Oesterreich Wien 26.05.2026 (FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d) Erste Bank Oesterreich Wien 20.05.2026 Spezialist:in Cred"
+    },
+    {
+      "title": "Product Owner Digital Platforms (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Projektleiter (w/m/d) Wohnbau",

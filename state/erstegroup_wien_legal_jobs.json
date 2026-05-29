@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T16:13:33+00:00",
+  "updated_at": "2026-05-29T22:49:10+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -354,11 +354,6 @@
       "location": "Filialen"
     },
     {
-      "title": "Filialleitung Oberneukirchen",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -682,6 +677,11 @@
       "title": "KYC Dokumente",
       "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
       "location": "KYC Dokumente"
+    },
+    {
+      "title": "Learning Solution Expert f\u00fcr den Bereich Unternehmenskundenausbildung",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Lehrling Bankkaufmann /-frau in unseren Filialen (m/w/d) 2026",
@@ -1104,11 +1104,6 @@
       "location": "Service f\u00fcr Investoren"
     },
     {
-      "title": "Serviceberater (m/w/d Reichenthal)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Social Banking",
       "href": "https://www.erstegroup.com/de/ueber-uns/social-banking",
       "location": "Social Banking"
@@ -1285,7 +1280,7 @@
     }
   ],
   "page_text_hash": "f7fb97e0cf28ac975eb66ebe5f4c2bc8122bea6a3f3c4763d28d2dd49a2dbc76",
-  "job_count": 256,
+  "job_count": 255,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d)",
@@ -1638,11 +1633,6 @@
       "location": "Filialen"
     },
     {
-      "title": "Filialleitung Oberneukirchen",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -1966,6 +1956,11 @@
       "title": "KYC Dokumente",
       "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
       "location": "KYC Dokumente"
+    },
+    {
+      "title": "Learning Solution Expert f\u00fcr den Bereich Unternehmenskundenausbildung",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Lehrling Bankkaufmann /-frau in unseren Filialen (m/w/d) 2026",
@@ -2386,11 +2381,6 @@
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
-    },
-    {
-      "title": "Serviceberater (m/w/d Reichenthal)",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Social Banking",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-28T18:08:03+00:00",
+  "updated_at": "2026-05-29T08:40:20+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -82,6 +82,11 @@
       "title": "Analysten und Sch\u00e4tzungen",
       "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungen",
       "location": "Analysten und Sch\u00e4tzungen"
+    },
+    {
+      "title": "Assistenz des Vorstandes (m/w/d; 80-100 %)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Assistenz Marketing",
@@ -604,11 +609,6 @@
       "location": "Kennzahlen und Dividende"
     },
     {
-      "title": "KI-Spezialist (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kommerzkundenbetreuer:in (m/w/d) mit Schwerpunkt Immobilienfinanzierung",
       "href": "",
       "location": ""
@@ -695,6 +695,11 @@
     },
     {
       "title": "Leitung Vertriebssteuerung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Vorstandssekretariat (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -1074,6 +1079,11 @@
       "location": ""
     },
     {
+      "title": "Senior Controller:in",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Senior Expert Operational Resilience & Framework Management (all genders)",
       "href": "",
       "location": ""
@@ -1135,11 +1145,6 @@
     },
     {
       "title": "Spezialist:in Strategisches Kreditrisikomanagement (m/w/d), Teilzeit",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Spezialist:in Verm\u00f6gens- und Fondsmanagement (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -1275,7 +1280,7 @@
     }
   ],
   "page_text_hash": "f7fb97e0cf28ac975eb66ebe5f4c2bc8122bea6a3f3c4763d28d2dd49a2dbc76",
-  "job_count": 254,
+  "job_count": 255,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d)",
@@ -1356,6 +1361,11 @@
       "title": "Analysten und Sch\u00e4tzungen",
       "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungen",
       "location": "Analysten und Sch\u00e4tzungen"
+    },
+    {
+      "title": "Assistenz des Vorstandes (m/w/d; 80-100 %)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Assistenz Marketing",
@@ -1878,11 +1888,6 @@
       "location": "Kennzahlen und Dividende"
     },
     {
-      "title": "KI-Spezialist (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kommerzkundenbetreuer:in (m/w/d) mit Schwerpunkt Immobilienfinanzierung",
       "href": "",
       "location": ""
@@ -1969,6 +1974,11 @@
     },
     {
       "title": "Leitung Vertriebssteuerung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Leitung Vorstandssekretariat (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -2348,6 +2358,11 @@
       "location": ""
     },
     {
+      "title": "Senior Controller:in",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Senior Expert Operational Resilience & Framework Management (all genders)",
       "href": "",
       "location": ""
@@ -2409,11 +2424,6 @@
     },
     {
       "title": "Spezialist:in Strategisches Kreditrisikomanagement (m/w/d), Teilzeit",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Spezialist:in Verm\u00f6gens- und Fondsmanagement (m/w/d)",
       "href": "",
       "location": ""
     },

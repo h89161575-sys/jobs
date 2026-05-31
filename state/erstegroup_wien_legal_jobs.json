@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-29T22:49:10+00:00",
+  "updated_at": "2026-05-31T22:59:28+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -624,11 +624,6 @@
       "location": "Kredit- und Kapitalm\u00e4rkte nutzen"
     },
     {
-      "title": "Kreditrisikomanagement Firmenkunden",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kreditrisikomanager:in (Kommerzkundensegment)",
       "href": "",
       "location": ""
@@ -705,11 +700,6 @@
     },
     {
       "title": "Leitung Vorstandssekretariat (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Leitung Wohnbau- & Privatfinanzierungen (w/m/d)",
       "href": "",
       "location": ""
     },
@@ -1059,11 +1049,6 @@
       "location": "Risiken minimieren"
     },
     {
-      "title": "Risk Management Underwriter:in (w/m/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Risk Manager:in mit dem Schwerpunkt Non Financial Risk (m/w/d)",
       "href": "",
       "location": ""
@@ -1189,6 +1174,11 @@
       "location": "Tochtergesellschaften"
     },
     {
+      "title": "Traineeprogramm #NextGen",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Treasury Operations & Services (w/m/d)",
       "href": "",
       "location": ""
@@ -1280,7 +1270,7 @@
     }
   ],
   "page_text_hash": "f7fb97e0cf28ac975eb66ebe5f4c2bc8122bea6a3f3c4763d28d2dd49a2dbc76",
-  "job_count": 255,
+  "job_count": 253,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d)",
@@ -1903,11 +1893,6 @@
       "location": "Kredit- und Kapitalm\u00e4rkte nutzen"
     },
     {
-      "title": "Kreditrisikomanagement Firmenkunden",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kreditrisikomanager:in (Kommerzkundensegment)",
       "href": "",
       "location": ""
@@ -1984,11 +1969,6 @@
     },
     {
       "title": "Leitung Vorstandssekretariat (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Leitung Wohnbau- & Privatfinanzierungen (w/m/d)",
       "href": "",
       "location": ""
     },
@@ -2338,11 +2318,6 @@
       "location": "Risiken minimieren"
     },
     {
-      "title": "Risk Management Underwriter:in (w/m/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Risk Manager:in mit dem Schwerpunkt Non Financial Risk (m/w/d)",
       "href": "",
       "location": ""
@@ -2466,6 +2441,11 @@
       "title": "Tochtergesellschaften",
       "href": "https://www.erstegroup.com/de/ueber-uns/tochtergesellschaften",
       "location": "Tochtergesellschaften"
+    },
+    {
+      "title": "Traineeprogramm #NextGen",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Treasury Operations & Services (w/m/d)",

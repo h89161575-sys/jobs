@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-31T22:59:28+00:00",
+  "updated_at": "2026-06-01T10:37:12+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -174,11 +174,6 @@
       "location": ""
     },
     {
-      "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Betreuer:in Privatkunden",
       "href": "",
       "location": ""
@@ -324,9 +319,19 @@
       "location": "ErsteConfirming , \u00d6ffnet in neuem Fenster"
     },
     {
+      "title": "Eventmanagement Private Banking",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Events",
       "href": "https://www.erstegroup.com/de/investoren/events",
       "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
+    },
+    {
+      "title": "Executive Assistant/Part-Time (all humans)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Expert:in Digitale Kommerzprozesse & Vertriebssteuerung (m/w/d)",
@@ -1049,6 +1054,11 @@
       "location": "Risiken minimieren"
     },
     {
+      "title": "Risk Management Underwriter:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Risk Manager:in mit dem Schwerpunkt Non Financial Risk (m/w/d)",
       "href": "",
       "location": ""
@@ -1087,6 +1097,11 @@
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
+    },
+    {
+      "title": "Serviceberater (m/w/d Reichenthal)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Social Banking",
@@ -1130,6 +1145,11 @@
     },
     {
       "title": "Spezialist:in Strategisches Kreditrisikomanagement (m/w/d), Teilzeit",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-time Chatbot Team (all humans)",
       "href": "",
       "location": ""
     },
@@ -1270,7 +1290,7 @@
     }
   ],
   "page_text_hash": "f7fb97e0cf28ac975eb66ebe5f4c2bc8122bea6a3f3c4763d28d2dd49a2dbc76",
-  "job_count": 253,
+  "job_count": 257,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d)",
@@ -1443,11 +1463,6 @@
       "location": ""
     },
     {
-      "title": "Betreuer:in Gesch\u00e4ftskunden im Raum Klagenfurt (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Betreuer:in Privatkunden",
       "href": "",
       "location": ""
@@ -1593,9 +1608,19 @@
       "location": "ErsteConfirming , \u00d6ffnet in neuem Fenster"
     },
     {
+      "title": "Eventmanagement Private Banking",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Events",
       "href": "https://www.erstegroup.com/de/investoren/events",
       "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
+    },
+    {
+      "title": "Executive Assistant/Part-Time (all humans)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Expert:in Digitale Kommerzprozesse & Vertriebssteuerung (m/w/d)",
@@ -2318,6 +2343,11 @@
       "location": "Risiken minimieren"
     },
     {
+      "title": "Risk Management Underwriter:in (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Risk Manager:in mit dem Schwerpunkt Non Financial Risk (m/w/d)",
       "href": "",
       "location": ""
@@ -2356,6 +2386,11 @@
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
+    },
+    {
+      "title": "Serviceberater (m/w/d Reichenthal)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Social Banking",
@@ -2399,6 +2434,11 @@
     },
     {
       "title": "Spezialist:in Strategisches Kreditrisikomanagement (m/w/d), Teilzeit",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-time Chatbot Team (all humans)",
       "href": "",
       "location": ""
     },

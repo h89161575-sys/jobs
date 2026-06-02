@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T09:47:58+00:00",
+  "updated_at": "2026-06-02T13:58:53+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -287,11 +287,6 @@
       "title": "English",
       "href": "https://www.erstegroup.com/en/career/positions-offered",
       "location": "English Suche"
-    },
-    {
-      "title": "Erfahrene:r HR Generalist:in (all genders) - Vollzeit (38 h/Woche)",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Erste Campus",
@@ -709,11 +704,6 @@
       "location": "Lieferketten sicher finanzieren"
     },
     {
-      "title": "Liquidity Management & Clearing (w/m/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Liquidit\u00e4t optimieren",
       "href": "https://www.erstegroup.com/de/firmenkunden/liquiditaet",
       "location": "Liquidit\u00e4t optimieren"
@@ -934,6 +924,11 @@
       "location": ""
     },
     {
+      "title": "Privatkundenbetreuer:in f\u00fcr unsere Gesch\u00e4ftsstellen im M\u00f6lltal - all genders",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Privatkundenbetreuer:in junior",
       "href": "",
       "location": ""
@@ -1140,6 +1135,11 @@
     },
     {
       "title": "Student Part-time Data Warehouse (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-Time IT Workplace Support (all humans)",
       "href": "",
       "location": ""
     },
@@ -1563,11 +1563,6 @@
       "location": "English Suche"
     },
     {
-      "title": "Erfahrene:r HR Generalist:in (all genders) - Vollzeit (38 h/Woche)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Erste Campus",
       "href": "https://www.erstegroup.com/de/ueber-uns/erste-campus",
       "location": "Erste Campus"
@@ -1983,11 +1978,6 @@
       "location": "Lieferketten sicher finanzieren"
     },
     {
-      "title": "Liquidity Management & Clearing (w/m/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Liquidit\u00e4t optimieren",
       "href": "https://www.erstegroup.com/de/firmenkunden/liquiditaet",
       "location": "Liquidit\u00e4t optimieren"
@@ -2208,6 +2198,11 @@
       "location": ""
     },
     {
+      "title": "Privatkundenbetreuer:in f\u00fcr unsere Gesch\u00e4ftsstellen im M\u00f6lltal - all genders",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Privatkundenbetreuer:in junior",
       "href": "",
       "location": ""
@@ -2414,6 +2409,11 @@
     },
     {
       "title": "Student Part-time Data Warehouse (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-Time IT Workplace Support (all humans)",
       "href": "",
       "location": ""
     },

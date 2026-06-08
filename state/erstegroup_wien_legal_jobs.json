@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-08T15:42:25+00:00",
+  "updated_at": "2026-06-08T22:23:55+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -674,6 +674,11 @@
       "location": ""
     },
     {
+      "title": "Kundenbetreuung Top",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "KYC Dokumente",
       "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
       "location": "KYC Dokumente"
@@ -1305,7 +1310,7 @@
     }
   ],
   "page_text_hash": "f7fb97e0cf28ac975eb66ebe5f4c2bc8122bea6a3f3c4763d28d2dd49a2dbc76",
-  "job_count": 260,
+  "job_count": 261,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (w/m/d)",
@@ -1974,6 +1979,11 @@
     },
     {
       "title": "Kundenbetreuung Raum Graz (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Kundenbetreuung Top",
       "href": "",
       "location": ""
     },

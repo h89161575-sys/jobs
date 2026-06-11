@@ -1,8 +1,13 @@
 {
-  "updated_at": "2026-06-11T11:21:38+00:00",
+  "updated_at": "2026-06-11T15:02:54+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
+    {
+      "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
+      "href": "",
+      "location": ""
+    },
     {
       "title": "(Senior) Product Owner Payments (w/m/d)",
       "href": "",
@@ -659,6 +664,11 @@
       "location": "KYC Dokumente"
     },
     {
+      "title": "K\u00e4ufm\u00e4nnisch-technischer Auftragskoordinator (w/m/d) Vollzeit oder Teilzeit (mind. 25h)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Learning Solution Expert f\u00fcr den Bereich Unternehmenskundenausbildung",
       "href": "",
       "location": ""
@@ -940,11 +950,6 @@
     },
     {
       "title": "Product Owner Corporate Lending (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Product Owner Digital Platforms (w/m/d)",
       "href": "",
       "location": ""
     },
@@ -1265,8 +1270,13 @@
     }
   ],
   "page_text_hash": "e3faaa4a664970de0cbcbf18d1a5cc3d30cd5543adb4818dbd15d2f9aeeafcc6",
-  "job_count": 252,
+  "job_count": 253,
   "job_candidates": [
+    {
+      "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
+      "href": "",
+      "location": ""
+    },
     {
       "title": "(Senior) Product Owner Payments (w/m/d)",
       "href": "",
@@ -1923,6 +1933,11 @@
       "location": "KYC Dokumente"
     },
     {
+      "title": "K\u00e4ufm\u00e4nnisch-technischer Auftragskoordinator (w/m/d) Vollzeit oder Teilzeit (mind. 25h)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Learning Solution Expert f\u00fcr den Bereich Unternehmenskundenausbildung",
       "href": "",
       "location": ""
@@ -2204,11 +2219,6 @@
     },
     {
       "title": "Product Owner Corporate Lending (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Product Owner Digital Platforms (w/m/d)",
       "href": "",
       "location": ""
     },

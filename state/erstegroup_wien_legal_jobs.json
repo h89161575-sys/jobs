@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T06:38:47+00:00",
+  "updated_at": "2026-06-12T10:59:23+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -400,6 +400,11 @@
     },
     {
       "title": "Firmenkundenbetreuer:in Bezirk Liezen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Firmenkundenbetreuer:in Senior",
       "href": "",
       "location": ""
     },
@@ -1275,7 +1280,7 @@
     }
   ],
   "page_text_hash": "e3faaa4a664970de0cbcbf18d1a5cc3d30cd5543adb4818dbd15d2f9aeeafcc6",
-  "job_count": 254,
+  "job_count": 255,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -1674,6 +1679,11 @@
     },
     {
       "title": "Firmenkundenbetreuer:in Bezirk Liezen (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Firmenkundenbetreuer:in Senior",
       "href": "",
       "location": ""
     },

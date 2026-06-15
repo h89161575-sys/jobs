@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T10:20:28+00:00",
+  "updated_at": "2026-06-15T16:07:19+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -10,6 +10,11 @@
     },
     {
       "title": "(Senior) Product Owner Payments (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "(Senior) Projekt- und Beteiligungsmanager:in (w/m/d)",
       "href": "",
       "location": ""
     },
@@ -212,6 +217,11 @@
       "title": "Chart Erste Group-Aktie",
       "href": "https://www.erstegroup.com/de/investoren/aktie/aktie-chart",
       "location": "Chart Erste Group-Aktie"
+    },
+    {
+      "title": "Chatbot Developer (all humans)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Communication Evaluation & Insights Expert (all genders)",
@@ -417,6 +427,11 @@
       "title": "Fotos",
       "href": "https://www.erstegroup.com/de/news-media/fotos",
       "location": "Fotos"
+    },
+    {
+      "title": "George Business - Helpdesk (w/m/d) Start 1.9.26",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Gesch\u00e4ftsbedingungen",
@@ -1285,7 +1300,7 @@
     }
   ],
   "page_text_hash": "17a66bcfa3451b1f0263c1bc051676a9f121947a33e6acf64c55309fc8da717b",
-  "job_count": 256,
+  "job_count": 259,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -1294,6 +1309,11 @@
     },
     {
       "title": "(Senior) Product Owner Payments (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "(Senior) Projekt- und Beteiligungsmanager:in (w/m/d)",
       "href": "",
       "location": ""
     },
@@ -1496,6 +1516,11 @@
       "title": "Chart Erste Group-Aktie",
       "href": "https://www.erstegroup.com/de/investoren/aktie/aktie-chart",
       "location": "Chart Erste Group-Aktie"
+    },
+    {
+      "title": "Chatbot Developer (all humans)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Communication Evaluation & Insights Expert (all genders)",
@@ -1701,6 +1726,11 @@
       "title": "Fotos",
       "href": "https://www.erstegroup.com/de/news-media/fotos",
       "location": "Fotos"
+    },
+    {
+      "title": "George Business - Helpdesk (w/m/d) Start 1.9.26",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Gesch\u00e4ftsbedingungen",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T16:07:19+00:00",
+  "updated_at": "2026-06-16T11:40:21+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -339,11 +339,6 @@
       "location": "ErsteConfirming , \u00d6ffnet in neuem Fenster"
     },
     {
-      "title": "Eventmanagement Private Banking",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Events",
       "href": "https://www.erstegroup.com/de/investoren/events",
       "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
@@ -969,21 +964,6 @@
       "location": ""
     },
     {
-      "title": "Product Owner Contracting (w/m/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Product Owner Contracting (w/m/d)",
-      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/product-owner-contracting-w-m-d/33091",
-      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit Product Owner Contracting (w/m/d) Erste Bank Oesterreich Wien 26.05.2026"
-    },
-    {
-      "title": "Product Owner Corporate Lending (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Pr\u00e4sentation Q1 2026",
       "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260430_Q126.pdf",
       "location": "Pr\u00e4sentation Q1 2026"
@@ -1064,11 +1044,6 @@
       "location": ""
     },
     {
-      "title": "Senior CSDM Expert - ServiceNow (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Senior Expert Operational Resilience & Framework Management (all genders)",
       "href": "",
       "location": ""
@@ -1080,6 +1055,11 @@
     },
     {
       "title": "Senior Sales - Markets Corporate Sales (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior ServiceNow Technical Specialist (all humans)",
       "href": "",
       "location": ""
     },
@@ -1120,6 +1100,11 @@
     },
     {
       "title": "Spezialist:in Data Analyst (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in f\u00fcr Vertrags- & Gesellschaftsrecht / Regulatory Compliance",
       "href": "",
       "location": ""
     },
@@ -1299,8 +1284,8 @@
       "location": "\u00dcbersicht"
     }
   ],
-  "page_text_hash": "17a66bcfa3451b1f0263c1bc051676a9f121947a33e6acf64c55309fc8da717b",
-  "job_count": 259,
+  "page_text_hash": "56da8f76405b650b290f89f7b0df06dbeaf83f0f71b1856d50db479d99552bad",
+  "job_count": 256,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -1638,11 +1623,6 @@
       "location": "ErsteConfirming , \u00d6ffnet in neuem Fenster"
     },
     {
-      "title": "Eventmanagement Private Banking",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Events",
       "href": "https://www.erstegroup.com/de/investoren/events",
       "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
@@ -2268,21 +2248,6 @@
       "location": ""
     },
     {
-      "title": "Product Owner Contracting (w/m/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Product Owner Contracting (w/m/d)",
-      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/job-detail/product-owner-contracting-w-m-d/33091",
-      "location": "Aufsteigend sortieren nach Position Aufsteigend sortieren nach Unternehmen Aufsteigend sortieren nach Dienstort Aufsteigend sortieren nach Online seit Product Owner Contracting (w/m/d) Erste Bank Oesterreich Wien 26.05.2026"
-    },
-    {
-      "title": "Product Owner Corporate Lending (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Pr\u00e4sentation Q1 2026",
       "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260430_Q126.pdf",
       "location": "Pr\u00e4sentation Q1 2026"
@@ -2363,11 +2328,6 @@
       "location": ""
     },
     {
-      "title": "Senior CSDM Expert - ServiceNow (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Senior Expert Operational Resilience & Framework Management (all genders)",
       "href": "",
       "location": ""
@@ -2379,6 +2339,11 @@
     },
     {
       "title": "Senior Sales - Markets Corporate Sales (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior ServiceNow Technical Specialist (all humans)",
       "href": "",
       "location": ""
     },
@@ -2419,6 +2384,11 @@
     },
     {
       "title": "Spezialist:in Data Analyst (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in f\u00fcr Vertrags- & Gesellschaftsrecht / Regulatory Compliance",
       "href": "",
       "location": ""
     },

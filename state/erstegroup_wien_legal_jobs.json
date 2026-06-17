@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T16:40:51+00:00",
+  "updated_at": "2026-06-17T19:24:04+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -774,11 +774,6 @@
       "location": ""
     },
     {
-      "title": "Mitarbeiter:in im Backoffice (W/M/D)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Mitarbeiter:in in der Marktfolge (m/w/d)",
       "href": "",
       "location": ""
@@ -1285,7 +1280,7 @@
     }
   ],
   "page_text_hash": "56da8f76405b650b290f89f7b0df06dbeaf83f0f71b1856d50db479d99552bad",
-  "job_count": 256,
+  "job_count": 255,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -2054,11 +2049,6 @@
     },
     {
       "title": "Mitarbeiter:in HR Gesundheit & Performance (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Mitarbeiter:in im Backoffice (W/M/D)",
       "href": "",
       "location": ""
     },

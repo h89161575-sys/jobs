@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T12:59:59+00:00",
+  "updated_at": "2026-06-17T16:40:51+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -72,11 +72,6 @@
       "title": "Aktion\u00e4rsstruktur",
       "href": "https://www.erstegroup.com/de/investoren/aktie/aktionaersstruktur",
       "location": "Aktion\u00e4rsstruktur"
-    },
-    {
-      "title": "Analyst/Associate (all genders) Corporate Finance Solutions",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Analysten und Sch\u00e4tzungen",
@@ -1140,6 +1135,11 @@
     },
     {
       "title": "Student Part-Time IT Workplace Support (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-time PMO (all humans)",
       "href": "",
       "location": ""
     },
@@ -1358,11 +1358,6 @@
       "location": "Aktion\u00e4rsstruktur"
     },
     {
-      "title": "Analyst/Associate (all genders) Corporate Finance Solutions",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Analysten und Sch\u00e4tzungen",
       "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungen",
       "location": "Analysten und Sch\u00e4tzungen"
@@ -2424,6 +2419,11 @@
     },
     {
       "title": "Student Part-Time IT Workplace Support (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-time PMO (all humans)",
       "href": "",
       "location": ""
     },

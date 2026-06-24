@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T12:04:37+00:00",
+  "updated_at": "2026-06-24T15:17:01+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -239,17 +239,7 @@
       "location": ""
     },
     {
-      "title": "Data Engineer for Databricks Platform (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Data Privacy Process Automation Enthusiast (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Databricks Platform Engineer (all humans)",
       "href": "",
       "location": ""
     },
@@ -877,6 +867,11 @@
       "title": "Privatkunden",
       "href": "https://www.erstegroup.com/de/privatkunden",
       "location": "Privatkunden"
+    },
+    {
+      "title": "Privatkundenberater:in f\u00fcr die Filiale Bregenz-Stadt",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Privatkundenbetreuer (m/w/d)",
@@ -1265,7 +1260,7 @@
     }
   ],
   "page_text_hash": "56da8f76405b650b290f89f7b0df06dbeaf83f0f71b1856d50db479d99552bad",
-  "job_count": 252,
+  "job_count": 251,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -1503,17 +1498,7 @@
       "location": ""
     },
     {
-      "title": "Data Engineer for Databricks Platform (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Data Privacy Process Automation Enthusiast (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Databricks Platform Engineer (all humans)",
       "href": "",
       "location": ""
     },
@@ -2141,6 +2126,11 @@
       "title": "Privatkunden",
       "href": "https://www.erstegroup.com/de/privatkunden",
       "location": "Privatkunden"
+    },
+    {
+      "title": "Privatkundenberater:in f\u00fcr die Filiale Bregenz-Stadt",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Privatkundenbetreuer (m/w/d)",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T08:55:28+00:00",
+  "updated_at": "2026-06-29T13:04:04+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -9,7 +9,7 @@
       "location": ""
     },
     {
-      "title": "(Senior) Product Owner Payments (w/m/d)",
+      "title": "(Senior) Product Owner Payments (all genders)",
       "href": "",
       "location": ""
     },
@@ -90,6 +90,11 @@
     },
     {
       "title": "Assistenz Marketing",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Ausbildung zur Serviceberater:in (m/w/d) - Filiale Hallein",
       "href": "",
       "location": ""
     },
@@ -739,11 +744,6 @@
       "location": "Markets Execution"
     },
     {
-      "title": "Mitarbeiter (w/m/d) Contract Management",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Mitarbeiter (w/m/d) Vertrieb",
       "href": "",
       "location": ""
@@ -1014,11 +1014,6 @@
       "location": ""
     },
     {
-      "title": "Senior Business Analyst (all genders) Credit Risk Data",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Senior Controller:in",
       "href": "",
       "location": ""
@@ -1150,11 +1145,6 @@
     },
     {
       "title": "Student Part-time Technical Analyst (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Student Part-time Workplace AI & Microsoft 365 Support (all humans)",
       "href": "",
       "location": ""
     },
@@ -1275,7 +1265,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 254,
+  "job_count": 252,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -1283,7 +1273,7 @@
       "location": ""
     },
     {
-      "title": "(Senior) Product Owner Payments (w/m/d)",
+      "title": "(Senior) Product Owner Payments (all genders)",
       "href": "",
       "location": ""
     },
@@ -1364,6 +1354,11 @@
     },
     {
       "title": "Assistenz Marketing",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Ausbildung zur Serviceberater:in (m/w/d) - Filiale Hallein",
       "href": "",
       "location": ""
     },
@@ -2013,11 +2008,6 @@
       "location": "Markets Execution"
     },
     {
-      "title": "Mitarbeiter (w/m/d) Contract Management",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Mitarbeiter (w/m/d) Vertrieb",
       "href": "",
       "location": ""
@@ -2288,11 +2278,6 @@
       "location": ""
     },
     {
-      "title": "Senior Business Analyst (all genders) Credit Risk Data",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Senior Controller:in",
       "href": "",
       "location": ""
@@ -2424,11 +2409,6 @@
     },
     {
       "title": "Student Part-time Technical Analyst (all humans)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Student Part-time Workplace AI & Microsoft 365 Support (all humans)",
       "href": "",
       "location": ""
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T22:03:38+00:00",
+  "updated_at": "2026-06-29T08:55:28+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -1267,10 +1267,15 @@
       "title": "\u00dcbersicht",
       "href": "https://www.erstegroup.com/de/news-media",
       "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht , \u00d6ffnet in neuem Fenster",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/kollektivvertraege",
+      "location": "Eine \u00dcbersicht der anwendbaren Kollektivertr\u00e4ge findest du hier. \u00dcbersicht , \u00d6ffnet in neuem Fenster"
     }
   ],
-  "page_text_hash": "56da8f76405b650b290f89f7b0df06dbeaf83f0f71b1856d50db479d99552bad",
-  "job_count": 253,
+  "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
+  "job_count": 254,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -2536,6 +2541,11 @@
       "title": "\u00dcbersicht",
       "href": "https://www.erstegroup.com/de/news-media",
       "location": "\u00dcbersicht"
+    },
+    {
+      "title": "\u00dcbersicht , \u00d6ffnet in neuem Fenster",
+      "href": "https://www.erstegroup.com/de/karriere/stellenangebote/kollektivvertraege",
+      "location": "Eine \u00dcbersicht der anwendbaren Kollektivertr\u00e4ge findest du hier. \u00dcbersicht , \u00d6ffnet in neuem Fenster"
     }
   ]
 }

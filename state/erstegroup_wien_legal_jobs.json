@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T13:17:57+00:00",
+  "updated_at": "2026-07-01T16:04:42+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -669,6 +669,11 @@
       "location": "KYC Dokumente"
     },
     {
+      "title": "Leitung Abteilung Firmenkunden- und Projektfinanzierung (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Leitung Kommerzkunden (all genders)",
       "href": "",
       "location": ""
@@ -1220,7 +1225,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 243,
+  "job_count": 244,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -1886,6 +1891,11 @@
       "title": "KYC Dokumente",
       "href": "https://www.erstegroup.com/de/financial-institutions/kyc-dokumente",
       "location": "KYC Dokumente"
+    },
+    {
+      "title": "Leitung Abteilung Firmenkunden- und Projektfinanzierung (w/m/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Leitung Kommerzkunden (all genders)",

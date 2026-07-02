@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T16:04:42+00:00",
+  "updated_at": "2026-07-02T08:52:15+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -47,6 +47,11 @@
       "title": "AbsolventInnen",
       "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
       "location": "AbsolventInnen"
+    },
+    {
+      "title": "Account Management",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Additional Tier 1 Notes",
@@ -524,11 +529,6 @@
       "location": ""
     },
     {
-      "title": "Internship Group Risk Reporting and Analytics (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Investieren in Erste Group",
       "href": "https://www.erstegroup.com/de/investoren/investieren",
       "location": "Investieren in Erste GroupAkquisitionSantander Bank Polska"
@@ -555,6 +555,11 @@
     },
     {
       "title": "IT Infrastruktur Spezialist:in (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "IT-Administrator:in und Support (all genders)",
       "href": "",
       "location": ""
     },
@@ -1225,7 +1230,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 244,
+  "job_count": 245,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Regulatory Reporting (w/m/d)",
@@ -1271,6 +1276,11 @@
       "title": "AbsolventInnen",
       "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
       "location": "AbsolventInnen"
+    },
+    {
+      "title": "Account Management",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Additional Tier 1 Notes",
@@ -1748,11 +1758,6 @@
       "location": ""
     },
     {
-      "title": "Internship Group Risk Reporting and Analytics (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Investieren in Erste Group",
       "href": "https://www.erstegroup.com/de/investoren/investieren",
       "location": "Investieren in Erste GroupAkquisitionSantander Bank Polska"
@@ -1779,6 +1784,11 @@
     },
     {
       "title": "IT Infrastruktur Spezialist:in (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "IT-Administrator:in und Support (all genders)",
       "href": "",
       "location": ""
     },

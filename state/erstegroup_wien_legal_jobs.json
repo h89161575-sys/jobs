@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T11:23:50+00:00",
+  "updated_at": "2026-07-07T13:32:40+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -47,11 +47,6 @@
       "title": "AbsolventInnen",
       "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
       "location": "AbsolventInnen"
-    },
-    {
-      "title": "Account Management",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Additional Tier 1 Notes",
@@ -1130,6 +1125,11 @@
     },
     {
       "title": "Student Part-time ServiceNow (all humans) #javascript",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-time Solution Specialist (all humans)",
       "href": "",
       "location": ""
     },
@@ -1293,11 +1293,6 @@
       "location": "AbsolventInnen"
     },
     {
-      "title": "Account Management",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Additional Tier 1 Notes",
       "href": "https://www.erstegroup.com/de/investoren/debt/at1",
       "location": "Additional Tier 1 Notes"
@@ -2374,6 +2369,11 @@
     },
     {
       "title": "Student Part-time ServiceNow (all humans) #javascript",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-time Solution Specialist (all humans)",
       "href": "",
       "location": ""
     },

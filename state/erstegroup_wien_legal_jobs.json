@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T09:07:25+00:00",
+  "updated_at": "2026-07-23T11:23:37+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -639,11 +639,6 @@
       "location": ""
     },
     {
-      "title": "Kundenbetreuung Filiale im Oberen Ennstal (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kundenbetreuung Filiale Murau (m/w/d)",
       "href": "",
       "location": ""
@@ -745,6 +740,11 @@
     },
     {
       "title": "Mitarbeiter:in Haftungen (TZ 30h)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in in der Marktfolge (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -970,6 +970,11 @@
     },
     {
       "title": "Securities Network Manager (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior Agile Delivery Manager (all humans)",
       "href": "",
       "location": ""
     },
@@ -1205,7 +1210,7 @@
     }
   ],
   "page_text_hash": "9652d89a87e81344dac2dd999b7f6459449ef7cf5eb7e3f79eef2c119987d8e0",
-  "job_count": 240,
+  "job_count": 241,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (all genders)",
@@ -1843,11 +1848,6 @@
       "location": ""
     },
     {
-      "title": "Kundenbetreuung Filiale im Oberen Ennstal (m/w/d)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Kundenbetreuung Filiale Murau (m/w/d)",
       "href": "",
       "location": ""
@@ -1949,6 +1949,11 @@
     },
     {
       "title": "Mitarbeiter:in Haftungen (TZ 30h)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Mitarbeiter:in in der Marktfolge (m/w/d)",
       "href": "",
       "location": ""
     },
@@ -2174,6 +2179,11 @@
     },
     {
       "title": "Securities Network Manager (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior Agile Delivery Manager (all humans)",
       "href": "",
       "location": ""
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T06:25:50+00:00",
+  "updated_at": "2026-07-27T10:25:47+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -644,6 +644,11 @@
       "location": ""
     },
     {
+      "title": "Kundenbetreuung Freie Berufe (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Kundenbetreuung Premium",
       "href": "",
       "location": ""
@@ -1079,6 +1084,11 @@
       "location": ""
     },
     {
+      "title": "Student Part-time Virtualization - VMware/OpenShift (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Studierende",
       "href": "https://www.erstegroup.com/de/karriere/studierende",
       "location": "Studierende"
@@ -1200,7 +1210,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 239,
+  "job_count": 241,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (all genders)",
@@ -1843,6 +1853,11 @@
       "location": ""
     },
     {
+      "title": "Kundenbetreuung Freie Berufe (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Kundenbetreuung Premium",
       "href": "",
       "location": ""
@@ -2274,6 +2289,11 @@
     },
     {
       "title": "Student Part-time PMO (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Student Part-time Virtualization - VMware/OpenShift (all humans)",
       "href": "",
       "location": ""
     },

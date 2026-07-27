@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27T10:25:47+00:00",
+  "updated_at": "2026-07-27T13:24:31+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -264,6 +264,11 @@
       "location": ""
     },
     {
+      "title": "Digital Process IT-Expert:in - Finanzierung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Directors Dealings",
       "href": "https://www.erstegroup.com/de/investoren/aktie/directorsdealings",
       "location": "Directors Dealings"
@@ -1104,6 +1109,11 @@
       "location": "Sustainable Finance"
     },
     {
+      "title": "Technical Analyst/Specialist - Databricks Platform (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Technology Governance Manager (all genders)",
       "href": "",
       "location": ""
@@ -1210,7 +1220,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 241,
+  "job_count": 243,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum im Bereich HR-Legal and Labor Relations (all genders)",
@@ -1473,6 +1483,11 @@
       "location": ""
     },
     {
+      "title": "Digital Process IT-Expert:in - Finanzierung (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Directors Dealings",
       "href": "https://www.erstegroup.com/de/investoren/aktie/directorsdealings",
       "location": "Directors Dealings"
@@ -2311,6 +2326,11 @@
       "title": "Sustainable Finance",
       "href": "https://www.erstegroup.com/de/investoren/debt/Sustainable_Finance",
       "location": "Sustainable Finance"
+    },
+    {
+      "title": "Technical Analyst/Specialist - Databricks Platform (all humans)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Technology Governance Manager (all genders)",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:51:10+00:00",
+  "updated_at": "2026-07-29T08:33:32+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -70,7 +70,7 @@
     },
     {
       "title": "Analysten und Sch\u00e4tzungen",
-      "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungen",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungenpre",
       "location": "Analysten und Sch\u00e4tzungen"
     },
     {
@@ -372,6 +372,11 @@
       "title": "Firmenkunden",
       "href": "https://www.erstegroup.com/de/firmenkunden",
       "location": "Firmenkunden"
+    },
+    {
+      "title": "Firmenkundenbetreuer (m/w/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Firmenkundenbetreuer:in (m/w/d)",
@@ -1220,7 +1225,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 243,
+  "job_count": 244,
   "job_candidates": [
     {
       "title": "(FH-/Uni-)Praktikum Channel- & Vertriebsstrategie (w/m/d)",
@@ -1289,7 +1294,7 @@
     },
     {
       "title": "Analysten und Sch\u00e4tzungen",
-      "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungen",
+      "href": "https://www.erstegroup.com/de/investoren/aktie/analystenschaetzungenpre",
       "location": "Analysten und Sch\u00e4tzungen"
     },
     {
@@ -1591,6 +1596,11 @@
       "title": "Firmenkunden",
       "href": "https://www.erstegroup.com/de/firmenkunden",
       "location": "Firmenkunden"
+    },
+    {
+      "title": "Firmenkundenbetreuer (m/w/d)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Firmenkundenbetreuer:in (m/w/d)",

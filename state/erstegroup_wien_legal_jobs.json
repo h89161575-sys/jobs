@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T13:14:34+00:00",
+  "updated_at": "2026-07-29T15:28:05+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -322,6 +322,11 @@
       "title": "Events",
       "href": "https://www.erstegroup.com/de/investoren/events",
       "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
+    },
+    {
+      "title": "Executive IT Support & Workplace Service Specialist (all humans)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Expert:in Non Financial Risk mit Schwerpunkt ICT Risiko Management (m/w/d)",
@@ -1235,7 +1240,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 246,
+  "job_count": 247,
   "job_candidates": [
     {
       "title": "(FH-/Uni-)Praktikum Channel- & Vertriebsstrategie (w/m/d)",
@@ -1556,6 +1561,11 @@
       "title": "Events",
       "href": "https://www.erstegroup.com/de/investoren/events",
       "location": "EventsPr\u00e4sentationen, Webcasts, etc.HauptversammlungenFinanzkalender"
+    },
+    {
+      "title": "Executive IT Support & Workplace Service Specialist (all humans)",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Expert:in Non Financial Risk mit Schwerpunkt ICT Risiko Management (m/w/d)",

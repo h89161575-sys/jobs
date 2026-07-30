@@ -1,13 +1,8 @@
 {
-  "updated_at": "2026-07-29T16:50:17+00:00",
+  "updated_at": "2026-07-30T06:24:17+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
-    {
-      "title": "(FH-/Uni-)Praktikum Channel- & Vertriebsstrategie (w/m/d)",
-      "href": "",
-      "location": ""
-    },
     {
       "title": "(FH-/Uni-)Praktikum in unseren Filialen in Wien und Wien-Umgebung (w/m/d)",
       "href": "",
@@ -374,9 +369,9 @@
       "location": "Finanzkalender"
     },
     {
-      "title": "Finanzkennzahlen Q1 2026",
-      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/tab/IR_Tab_Q126_EG_fin_data_sheets.xlsx",
-      "location": "Finanzkennzahlen Q1 2026"
+      "title": "Finanzkennzahlen H1 2026",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/tab/IR_Tab_H126_EG_fin_data_sheets.xlsx",
+      "location": "Finanzkennzahlen H1 2026"
     },
     {
       "title": "Firmenkunden",
@@ -549,9 +544,9 @@
       "location": "Investoren"
     },
     {
-      "title": "Investoreninformation Q1 2026",
-      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/de/ir/2026/news_de/IR_News_260430de_Q126.pdf",
-      "location": "Investoreninformation Q1 2026"
+      "title": "Investoreninformation H1 2026",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/de/ir/2026/news_de/IR_News_260730de_H126.pdf",
+      "location": "Investoreninformation H1 2026"
     },
     {
       "title": "Investoreninformationen",
@@ -691,7 +686,7 @@
     {
       "title": "Letzte Ver\u00f6ffentlichungen",
       "href": "https://www.erstegroup.com/de/investoren/news",
-      "location": "Letzte Ver\u00f6ffentlichungenInvestoreninformation Q1 2026Pr\u00e4sentation Q1 2026Finanzkennzahlen Q1 2026"
+      "location": "Letzte Ver\u00f6ffentlichungenInvestoreninformation H1 2026Pr\u00e4sentation H1 2026Finanzkennzahlen H1 2026"
     },
     {
       "title": "Level 2 Virtualization Engineer (all humans)",
@@ -894,9 +889,9 @@
       "location": ""
     },
     {
-      "title": "Pr\u00e4sentation Q1 2026",
-      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260430_Q126.pdf",
-      "location": "Pr\u00e4sentation Q1 2026"
+      "title": "Pr\u00e4sentation H1 2026",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260730_H126.pdf",
+      "location": "Pr\u00e4sentation H1 2026"
     },
     {
       "title": "Pr\u00e4sentationen",
@@ -1235,13 +1230,8 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 246,
+  "job_count": 245,
   "job_candidates": [
-    {
-      "title": "(FH-/Uni-)Praktikum Channel- & Vertriebsstrategie (w/m/d)",
-      "href": "",
-      "location": ""
-    },
     {
       "title": "(FH-/Uni-)Praktikum in unseren Filialen in Wien und Wien-Umgebung (w/m/d)",
       "href": "",
@@ -1608,9 +1598,9 @@
       "location": "Finanzkalender"
     },
     {
-      "title": "Finanzkennzahlen Q1 2026",
-      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/tab/IR_Tab_Q126_EG_fin_data_sheets.xlsx",
-      "location": "Finanzkennzahlen Q1 2026"
+      "title": "Finanzkennzahlen H1 2026",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/tab/IR_Tab_H126_EG_fin_data_sheets.xlsx",
+      "location": "Finanzkennzahlen H1 2026"
     },
     {
       "title": "Firmenkunden",
@@ -1783,9 +1773,9 @@
       "location": "Investoren"
     },
     {
-      "title": "Investoreninformation Q1 2026",
-      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/de/ir/2026/news_de/IR_News_260430de_Q126.pdf",
-      "location": "Investoreninformation Q1 2026"
+      "title": "Investoreninformation H1 2026",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/de/ir/2026/news_de/IR_News_260730de_H126.pdf",
+      "location": "Investoreninformation H1 2026"
     },
     {
       "title": "Investoreninformationen",
@@ -1925,7 +1915,7 @@
     {
       "title": "Letzte Ver\u00f6ffentlichungen",
       "href": "https://www.erstegroup.com/de/investoren/news",
-      "location": "Letzte Ver\u00f6ffentlichungenInvestoreninformation Q1 2026Pr\u00e4sentation Q1 2026Finanzkennzahlen Q1 2026"
+      "location": "Letzte Ver\u00f6ffentlichungenInvestoreninformation H1 2026Pr\u00e4sentation H1 2026Finanzkennzahlen H1 2026"
     },
     {
       "title": "Level 2 Virtualization Engineer (all humans)",
@@ -2128,9 +2118,9 @@
       "location": ""
     },
     {
-      "title": "Pr\u00e4sentation Q1 2026",
-      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260430_Q126.pdf",
-      "location": "Pr\u00e4sentation Q1 2026"
+      "title": "Pr\u00e4sentation H1 2026",
+      "href": "https://www.erstegroup.com/content/dam/at/eh/www_erstegroup_com/en/Investor_Relations/2026/presentations/IR_Pres_CC_260730_H126.pdf",
+      "location": "Pr\u00e4sentation H1 2026"
     },
     {
       "title": "Pr\u00e4sentationen",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T12:53:24+00:00",
+  "updated_at": "2026-08-04T11:02:44+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -42,6 +42,11 @@
       "title": "AbsolventInnen",
       "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
       "location": "AbsolventInnen"
+    },
+    {
+      "title": "Account Management",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Additional Tier 1 Notes",
@@ -440,11 +445,6 @@
     },
     {
       "title": "Immobilienmakler:in f\u00fcr unser sReal (Teilzeit, 25 Wochenstunden in Rohrbach-Berg)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Immobilienmakler:in f\u00fcr Wohn- & Gewerbeimmobilien",
       "href": "",
       "location": ""
     },
@@ -1037,11 +1037,6 @@
       "title": "Social Banking",
       "href": "https://www.erstegroup.com/de/ueber-uns/social-banking",
       "location": "Social Banking"
-    },
-    {
-      "title": "Social Media & Marketing Manager:in (m/w/d)",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Specialist (all genders) CtB Rating & Financials",
@@ -1230,7 +1225,7 @@
     }
   ],
   "page_text_hash": "fc580f1a689723314ff1715e040f7ad9d446cf7534935db342ca8642b6e43e19",
-  "job_count": 245,
+  "job_count": 244,
   "job_candidates": [
     {
       "title": "(FH-/Uni-)Praktikum in unseren Filialen in Wien und Wien-Umgebung (w/m/d)",
@@ -1271,6 +1266,11 @@
       "title": "AbsolventInnen",
       "href": "https://www.erstegroup.com/de/karriere/absolventinnen",
       "location": "AbsolventInnen"
+    },
+    {
+      "title": "Account Management",
+      "href": "",
+      "location": ""
     },
     {
       "title": "Additional Tier 1 Notes",
@@ -1669,11 +1669,6 @@
     },
     {
       "title": "Immobilienmakler:in f\u00fcr unser sReal (Teilzeit, 25 Wochenstunden in Rohrbach-Berg)",
-      "href": "",
-      "location": ""
-    },
-    {
-      "title": "Immobilienmakler:in f\u00fcr Wohn- & Gewerbeimmobilien",
       "href": "",
       "location": ""
     },
@@ -2266,11 +2261,6 @@
       "title": "Social Banking",
       "href": "https://www.erstegroup.com/de/ueber-uns/social-banking",
       "location": "Social Banking"
-    },
-    {
-      "title": "Social Media & Marketing Manager:in (m/w/d)",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Specialist (all genders) CtB Rating & Financials",

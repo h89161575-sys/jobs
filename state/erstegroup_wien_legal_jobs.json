@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T04:36:40+00:00",
+  "updated_at": "2026-08-07T06:07:07+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -117,11 +117,6 @@
       "title": "Basisinformationsbl\u00e4tter (KIDs)",
       "href": "https://www.erstegroup.com/de/ueber-uns/erste-group-emissionen/basisinformationsblaetter",
       "location": "Basisinformationsbl\u00e4tter (KIDs)"
-    },
-    {
-      "title": "Bautechniker:in (all genders) - Karenzvertretung",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Benefits",
@@ -879,11 +874,6 @@
       "location": ""
     },
     {
-      "title": "Privatkundenbetreuer:in f\u00fcr unsere Gesch\u00e4ftsstellen in Spittal/Drau (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Privatkundenbetreuung mit Bankerfahrung Kufstein, W\u00f6rgl und Umgebung",
       "href": "",
       "location": ""
@@ -1004,6 +994,11 @@
       "location": ""
     },
     {
+      "title": "Senior Riskmanager:in",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Senior Virtualization & Automation Expert (all humans)",
       "href": "",
       "location": ""
@@ -1012,11 +1007,6 @@
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
-    },
-    {
-      "title": "Service-Mitarbeiter:in f\u00fcr unsere Gesch\u00e4ftsstelle Neuer Platz (all genders)",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Servicekundenbetreuer:in",
@@ -1230,7 +1220,7 @@
     }
   ],
   "page_text_hash": "fc580f1a689723314ff1715e040f7ad9d446cf7534935db342ca8642b6e43e19",
-  "job_count": 245,
+  "job_count": 243,
   "job_candidates": [
     {
       "title": "(FH-/Uni-)Praktikum in unseren Filialen in Wien und Wien-Umgebung (w/m/d)",
@@ -1346,11 +1336,6 @@
       "title": "Basisinformationsbl\u00e4tter (KIDs)",
       "href": "https://www.erstegroup.com/de/ueber-uns/erste-group-emissionen/basisinformationsblaetter",
       "location": "Basisinformationsbl\u00e4tter (KIDs)"
-    },
-    {
-      "title": "Bautechniker:in (all genders) - Karenzvertretung",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Benefits",
@@ -2108,11 +2093,6 @@
       "location": ""
     },
     {
-      "title": "Privatkundenbetreuer:in f\u00fcr unsere Gesch\u00e4ftsstellen in Spittal/Drau (all genders)",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Privatkundenbetreuung mit Bankerfahrung Kufstein, W\u00f6rgl und Umgebung",
       "href": "",
       "location": ""
@@ -2233,6 +2213,11 @@
       "location": ""
     },
     {
+      "title": "Senior Riskmanager:in",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Senior Virtualization & Automation Expert (all humans)",
       "href": "",
       "location": ""
@@ -2241,11 +2226,6 @@
       "title": "Service f\u00fcr Investoren",
       "href": "https://www.erstegroup.com/de/investoren/ir-service",
       "location": "Service f\u00fcr Investoren"
-    },
-    {
-      "title": "Service-Mitarbeiter:in f\u00fcr unsere Gesch\u00e4ftsstelle Neuer Platz (all genders)",
-      "href": "",
-      "location": ""
     },
     {
       "title": "Servicekundenbetreuer:in",

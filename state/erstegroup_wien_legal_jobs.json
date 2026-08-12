@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T18:56:55+00:00",
+  "updated_at": "2026-08-12T08:13:32+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -649,6 +649,11 @@
       "location": "KYC Dokumente"
     },
     {
+      "title": "Learning Quality Specialist",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Legal Specialist (all genders) - fixed term position",
       "href": "",
       "location": ""
@@ -1079,6 +1084,11 @@
       "location": ""
     },
     {
+      "title": "Teamleitung Call Center Fraud & Karten (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Technical Analyst/Specialist - Databricks Platform (all humans)",
       "href": "",
       "location": ""
@@ -1195,7 +1205,7 @@
     }
   ],
   "page_text_hash": "fc580f1a689723314ff1715e040f7ad9d446cf7534935db342ca8642b6e43e19",
-  "job_count": 238,
+  "job_count": 240,
   "job_candidates": [
     {
       "title": "+43 (0)5 0100 - 10100",
@@ -1843,6 +1853,11 @@
       "location": "KYC Dokumente"
     },
     {
+      "title": "Learning Quality Specialist",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Legal Specialist (all genders) - fixed term position",
       "href": "",
       "location": ""
@@ -2269,6 +2284,11 @@
     },
     {
       "title": "Teamleitung Call Center (w/m/d)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Teamleitung Call Center Fraud & Karten (w/m/d)",
       "href": "",
       "location": ""
     },

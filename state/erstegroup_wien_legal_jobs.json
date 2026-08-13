@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T10:00:13+00:00",
+  "updated_at": "2026-08-13T13:55:56+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -554,6 +554,11 @@
       "location": "IR Team"
     },
     {
+      "title": "IT Auditor (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "IT Operations Manager (all humans)",
       "href": "",
       "location": ""
@@ -1009,6 +1014,11 @@
       "location": ""
     },
     {
+      "title": "ServiceNow Business Analyst (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Site Reliability Engineer (SRE) - Open Source Databases (all humans)",
       "href": "",
       "location": ""
@@ -1210,7 +1220,7 @@
     }
   ],
   "page_text_hash": "fc580f1a689723314ff1715e040f7ad9d446cf7534935db342ca8642b6e43e19",
-  "job_count": 241,
+  "job_count": 243,
   "job_candidates": [
     {
       "title": "+43 (0)5 0100 - 10100",
@@ -1763,6 +1773,11 @@
       "location": "IR Team"
     },
     {
+      "title": "IT Auditor (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "IT Operations Manager (all humans)",
       "href": "",
       "location": ""
@@ -2214,6 +2229,11 @@
     },
     {
       "title": "Servicemitarbeiter:in Filialverbund Jenbach (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "ServiceNow Business Analyst (all humans)",
       "href": "",
       "location": ""
     },

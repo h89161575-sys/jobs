@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T10:55:57+00:00",
+  "updated_at": "2026-08-14T11:41:35+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -1034,6 +1034,11 @@
       "location": ""
     },
     {
+      "title": "Spezialist:in Operatives Accounting & Jahresabschluss (m/w/d)",
+      "href": "",
+      "location": ""
+    },
+    {
       "title": "Spezialist:in Rechnungswesen",
       "href": "",
       "location": ""
@@ -1210,7 +1215,7 @@
     }
   ],
   "page_text_hash": "fc580f1a689723314ff1715e040f7ad9d446cf7534935db342ca8642b6e43e19",
-  "job_count": 241,
+  "job_count": 242,
   "job_candidates": [
     {
       "title": "+43 (0)5 0100 - 10100",
@@ -2239,6 +2244,11 @@
     },
     {
       "title": "Spezialist:in Immobilienbewertung und Finanzierungsservice",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Spezialist:in Operatives Accounting & Jahresabschluss (m/w/d)",
       "href": "",
       "location": ""
     },

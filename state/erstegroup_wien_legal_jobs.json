@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:36:35+00:00",
+  "updated_at": "2026-08-17T14:23:02+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -334,11 +334,6 @@
       "location": ""
     },
     {
-      "title": "Financial/Industry Analyst (w/m/d) Large Corporates",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -714,11 +709,6 @@
       "location": "Liquidit\u00e4t optimieren"
     },
     {
-      "title": "Marketing Allrounder:in mit Schwerpunkt Content Creation",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Markets Execution",
       "href": "https://www.erstegroup.com/de/financial-institutions/group-markets-execution",
       "location": "Markets Execution"
@@ -965,6 +955,11 @@
     },
     {
       "title": "Senior Agile Delivery Manager (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior Application DBA - Database Reliability Engineering (DBRE) (all humans)",
       "href": "",
       "location": ""
     },
@@ -1220,7 +1215,7 @@
     }
   ],
   "page_text_hash": "fc580f1a689723314ff1715e040f7ad9d446cf7534935db342ca8642b6e43e19",
-  "job_count": 243,
+  "job_count": 242,
   "job_candidates": [
     {
       "title": "+43 (0)5 0100 - 10100",
@@ -1553,11 +1548,6 @@
       "location": ""
     },
     {
-      "title": "Financial/Industry Analyst (w/m/d) Large Corporates",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Finanzberichte",
       "href": "https://www.erstegroup.com/de/investoren/berichte/finanzberichte",
       "location": "Finanzberichte"
@@ -1933,11 +1923,6 @@
       "location": "Liquidit\u00e4t optimieren"
     },
     {
-      "title": "Marketing Allrounder:in mit Schwerpunkt Content Creation",
-      "href": "",
-      "location": ""
-    },
-    {
       "title": "Markets Execution",
       "href": "https://www.erstegroup.com/de/financial-institutions/group-markets-execution",
       "location": "Markets Execution"
@@ -2184,6 +2169,11 @@
     },
     {
       "title": "Senior Agile Delivery Manager (all humans)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Senior Application DBA - Database Reliability Engineering (DBRE) (all humans)",
       "href": "",
       "location": ""
     },

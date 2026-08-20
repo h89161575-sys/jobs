@@ -2,8 +2,6 @@ name: Track Erste Group Jobs
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "*/30 * * * *"
 
 permissions:
   contents: write

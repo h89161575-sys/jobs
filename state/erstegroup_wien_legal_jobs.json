@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T10:01:56+00:00",
+  "updated_at": "2026-08-20T10:56:59+00:00",
   "url": "https://www.erstegroup.com/de/karriere/stellenangebote#/joblist/location/Wien/discipline_items/Legal%20%2F%20Compliance%20%2F%20Audit",
   "comparison_mode": "jobs",
   "comparison_value": [
@@ -530,6 +530,11 @@
     },
     {
       "title": "Internship Cybersecurity Automation Analyst (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Internship Equity Trading (all genders)",
       "href": "",
       "location": ""
     },
@@ -1205,7 +1210,7 @@
     }
   ],
   "page_text_hash": "1b9ed534ab0c5fd59a0d56b1a5c4e3eefe1bb674c78f9931b7bb86593f79a1bc",
-  "job_count": 240,
+  "job_count": 241,
   "job_candidates": [
     {
       "title": "(FH-/Uni-) Praktikum Nachhaltigkeitsberichterstattung (all genders)",
@@ -1734,6 +1739,11 @@
     },
     {
       "title": "Internship Cybersecurity Automation Analyst (all genders)",
+      "href": "",
+      "location": ""
+    },
+    {
+      "title": "Internship Equity Trading (all genders)",
       "href": "",
       "location": ""
     },
